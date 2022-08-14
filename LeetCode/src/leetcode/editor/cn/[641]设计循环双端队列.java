@@ -52,57 +52,99 @@
 //
 // Related Topics 设计 队列 数组 链表 👍 127 👎 0
 
-
 //leetcode submit region begin(Prohibit modification and deletion)
 class MyCircularDeque {
 
+    private static class LinkedNode {
+        int val; // -1表示表头node
+        LinkedNode prev;
+        LinkedNode next;
+
+        public LinkedNode(int val) {
+            this.val = val;
+        }
+    }
+
+    private final LinkedNode head;
+    private int curSize;
+    private final int maxSize;
+
     public MyCircularDeque(int k) {
-
+        head = new LinkedNode(-1);
+        head.next = head;
+        head.prev = head;
+        curSize = 0;
+        maxSize = k;
     }
-    
+
     public boolean insertFront(int value) {
-
+        if (!isFull()) {
+            LinkedNode oldNext = head.next;
+            LinkedNode newNext = new LinkedNode(value);
+            head.next = newNext;
+            newNext.next = oldNext;
+            newNext.prev = head;
+            oldNext.prev = newNext;
+            curSize++;
+            return true;
+        }
+        return false;
     }
-    
+
     public boolean insertLast(int value) {
-
+        if (!isFull()) {
+            LinkedNode oldPrev = head.prev;
+            LinkedNode newPrev = new LinkedNode(value);
+            head.prev = newPrev;
+            newPrev.prev = oldPrev;
+            oldPrev.next = newPrev;
+            newPrev.next = head;
+            curSize++;
+            return true;
+        }
+        return false;
     }
-    
+
     public boolean deleteFront() {
-
+        if (!isEmpty()) {
+            head.next.next.prev = head;
+            head.next = head.next.next;
+            curSize--;
+            return true;
+        }
+        return false;
     }
-    
+
     public boolean deleteLast() {
-
+        if (!isEmpty()) {
+            head.prev.prev.next = head;
+            head.prev = head.prev.prev;
+            curSize--;
+            return true;
+        }
+        return false;
     }
-    
+
     public int getFront() {
-
+        if (!isEmpty()) {
+            return head.next.val;
+        }
+        return -1;
     }
-    
+
     public int getRear() {
-
+        if (!isEmpty()) {
+            return head.prev.val;
+        }
+        return -1;
     }
-    
+
     public boolean isEmpty() {
-
+        return head.next == head;
     }
-    
-    public boolean isFull() {
 
+    public boolean isFull() {
+        return curSize == maxSize;
     }
 }
-
-/**
- * Your MyCircularDeque object will be instantiated and called as such:
- * MyCircularDeque obj = new MyCircularDeque(k);
- * boolean param_1 = obj.insertFront(value);
- * boolean param_2 = obj.insertLast(value);
- * boolean param_3 = obj.deleteFront();
- * boolean param_4 = obj.deleteLast();
- * int param_5 = obj.getFront();
- * int param_6 = obj.getRear();
- * boolean param_7 = obj.isEmpty();
- * boolean param_8 = obj.isFull();
- */
 //leetcode submit region end(Prohibit modification and deletion)
