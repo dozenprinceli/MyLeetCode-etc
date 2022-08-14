@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algs-DS.iml" filepath="$PROJECT_DIR$/Algs-DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtCoder/AtCoder.iml" filepath="$PROJECT_DIR$/AtCoder/AtCoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeForces/CodeForces.iml" filepath="$PROJECT_DIR$/CodeForces/CodeForces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+    </modules>
+  </component>
+</project>
