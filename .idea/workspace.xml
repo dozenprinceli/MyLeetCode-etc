@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1656]设计有序流.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1656]设计有序流.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[55]跳跃游戏.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[55]跳跃游戏.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[535]TinyURL 的加密与解密.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[535]TinyURL 的加密与解密.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +94,7 @@
       <workItem from="1660495157910" duration="8101000" />
       <workItem from="1660546615731" duration="1017000" />
       <workItem from="1660576608078" duration="4131000" />
+      <workItem from="1660596846934" duration="880000" />
     </task>
     <task id="LOCAL-00001" summary="initialize">
       <created>1660495554381</created>
@@ -118,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660580076910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Problem.1656&#10;first commit">
+      <created>1660596907743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660596907743</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +136,7 @@
     <MESSAGE value="initialize" />
     <MESSAGE value="Problem.641&#10;first commit" />
     <MESSAGE value="Problem.814&#10;剑指Offer II 047&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.814&#10;剑指Offer II 047&#10;first commit" />
+    <MESSAGE value="Problem.1656&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.1656&#10;first commit" />
   </component>
 </project>
