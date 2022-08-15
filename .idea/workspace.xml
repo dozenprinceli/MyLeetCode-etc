@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[762]二进制表示中质数个计算置位.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[762]二进制表示中质数个计算置位.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/bitwise/Bitwise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1656]设计有序流.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1656]设计有序流.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[535]TinyURL 的加密与解密.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[535]TinyURL 的加密与解密.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.String01">
+    <configuration name="String01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.String01" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bitwise.Bitwise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bitwise.Bitwise01" />
       <module name="test" />
@@ -67,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String01" />
         <item itemvalue="Application.bitwise.Bitwise01" />
       </list>
     </recent_temporary>
@@ -81,7 +95,7 @@
       <updated>1660495156094</updated>
       <workItem from="1660495157910" duration="8101000" />
       <workItem from="1660546615731" duration="1017000" />
-      <workItem from="1660576608078" duration="2699000" />
+      <workItem from="1660576608078" duration="4131000" />
     </task>
     <task id="LOCAL-00001" summary="initialize">
       <created>1660495554381</created>
@@ -97,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660499303743</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Problem.814&#10;剑指Offer II 047&#10;first commit">
+      <created>1660580076910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660580076910</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +129,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initialize" />
     <MESSAGE value="Problem.641&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.641&#10;first commit" />
+    <MESSAGE value="Problem.814&#10;剑指Offer II 047&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.814&#10;剑指Offer II 047&#10;first commit" />
   </component>
 </project>

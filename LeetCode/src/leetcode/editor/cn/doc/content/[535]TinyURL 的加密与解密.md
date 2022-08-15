@@ -8,8 +8,8 @@
 <div>
 <ul>
 	<li><code>Solution()</code> 初始化 TinyURL 系统对象。</li>
-	<li><code>String encode(String longUrl)</code> 返回 <code>longUrl</code> 对应的 TinyURL 。</li>
-	<li><code>String decode(String shortUrl)</code> 返回 <code>shortUrl</code> 原本的 URL 。题目数据保证给定的 <code>shortUrl</code> 是由同一个系统对象加密的。</li>
+	<li><code>string encode(string longUrl)</code> 返回 <code>longUrl</code> 对应的 TinyURL 。</li>
+	<li><code>string decode(string shortUrl)</code> 返回 <code>shortUrl</code> 原本的 URL 。题目数据保证给定的 <code>shortUrl</code> 是由同一个系统对象加密的。</li>
 </ul>
 
 <p>&nbsp;</p>
