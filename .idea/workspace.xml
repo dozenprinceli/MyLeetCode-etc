@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/practice/A_WelcomeToAtCoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1712/A_WonderfulPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1712/B_WoefulPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1712/C_SortZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1712/D_EmptyGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1716/A_2To3Moves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c4/A_Watermelon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c71/A_WayTooLongWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/cNew/A_ChipGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/cNew/B_MathematicalCircus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/cNew/C_FightingTournament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/cNew/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1719/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1719/C_FightingTournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1719/C_FightingTournament.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_FightingTournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.com.c1719.C_FightingTournament" />
+    <configuration name="C_Correct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.c1719.C_Correct" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.String01" />
-      <module name="test" />
+    <configuration name="C_FightingTournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.c1719.C_FightingTournament" />
+      <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="codeforces.com.c1719.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,10 +119,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.codeforces.com.c1719.C_FightingTournament" />
+        <item itemvalue="Application.C_Correct" />
         <item itemvalue="Application.codeforces.com.c1719.Test" />
         <item itemvalue="Application.codeforces.com.c1719.B_MathematicalCircus" />
         <item itemvalue="Application.codeforces.com.c1719.A_ChipGame" />
-        <item itemvalue="Application.String01" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +138,7 @@
       <workItem from="1660546615731" duration="1017000" />
       <workItem from="1660576608078" duration="4131000" />
       <workItem from="1660596846934" duration="1895000" />
-      <workItem from="1660639171747" duration="16006000" />
+      <workItem from="1660639171747" duration="19269000" />
     </task>
     <task id="LOCAL-00001" summary="initialize">
       <created>1660495554381</created>
@@ -206,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660659644176</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Codeforces 814 Div.2&#10;first commit">
+      <created>1660669620346</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660669620346</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +220,7 @@
     <MESSAGE value="Problem.870&#10;first commit" />
     <MESSAGE value="Problem.515&#10;first commit" />
     <MESSAGE value="Problem.1818&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.1818&#10;first commit" />
+    <MESSAGE value="Codeforces 814 Div.2&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 814 Div.2&#10;first commit" />
   </component>
 </project>

@@ -41,7 +41,8 @@ public class C_FightingTournament {
         // 从第i+1个往后遍历找到第一个更大的
         for (int tmp = i; tmp < Math.min(participants.length, k + 1); tmp++) {
             if (participants[tmp] > curStrength) {
-                System.out.println(tmp - i + 1);
+                int add = i == 1 ? 0 : 1;
+                System.out.println(tmp - i + add);
                 return;
             }
         }
