@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1719/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1719/C_FightingTournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/c1719/C_FightingTournament.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +137,7 @@
       <workItem from="1660546615731" duration="1017000" />
       <workItem from="1660576608078" duration="4131000" />
       <workItem from="1660596846934" duration="1895000" />
-      <workItem from="1660639171747" duration="19269000" />
+      <workItem from="1660639171747" duration="20327000" />
     </task>
     <task id="LOCAL-00001" summary="initialize">
       <created>1660495554381</created>
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660669620346</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Codeforces 814 Div.2&#10;C题更新为正确答案，且添加Test类用于生成测试数据">
+      <created>1660672640062</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660672640062</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +227,7 @@
     <MESSAGE value="Problem.515&#10;first commit" />
     <MESSAGE value="Problem.1818&#10;first commit" />
     <MESSAGE value="Codeforces 814 Div.2&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 814 Div.2&#10;first commit" />
+    <MESSAGE value="Codeforces 814 Div.2&#10;C题更新为正确答案，且添加Test类用于生成测试数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 814 Div.2&#10;C题更新为正确答案，且添加Test类用于生成测试数据" />
   </component>
 </project>
