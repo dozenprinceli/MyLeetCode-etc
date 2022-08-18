@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/matrix/Matrix01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/test/src/string/String01.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1712/A_WonderfulPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1712/B_WoefulPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1712/C_SortZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1712/D_EmptyGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1716/A_2To3Moves.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1718/A_BurenkaAndTraditions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1718/B_FibonacciStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1719/A_ChipGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1719/B_MathematicalCircus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1719/C_FightingTournament.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1719/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c4/A_Watermelon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c71/A_WayTooLongWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/string/String01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/string/String01.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,13 +73,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Array01.test1224">
-    <configuration name="B_FibonacciStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.com.r814div2.B_FibonacciStrings" />
+  <component name="RunManager" selected="Application.D">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r815div2.B" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeforces.com.r814div2.*" />
+          <option name="PATTERN" value="codeforces.com.rated.r815div2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_Correct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.com.c1719.C_Correct" />
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r815div2.C" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeforces.com.r814div2.*" />
+          <option name="PATTERN" value="codeforces.com.rated.r815div2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.com.r814div2.Test" />
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r815div2.D" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeforces.com.r814div2.*" />
+          <option name="PATTERN" value="codeforces.com.rated.r815div2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,33 +113,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Matrix01.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.Array01" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="matrix" />
+      <option name="MAIN_CLASS_NAME" value="matrix.Matrix01" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array01.test1224" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="String01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.Array01" />
-      <option name="METHOD_NAME" value="test1224" />
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.String01" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,10 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Array01.test1224" />
-        <item itemvalue="JUnit.Array01.test" />
-        <item itemvalue="Application.codeforces.com.r814div2.B_FibonacciStrings" />
-        <item itemvalue="Application.codeforces.com.c1719.C_Correct" />
+        <item itemvalue="Application.D" />
+        <item itemvalue="Application.C" />
+        <item itemvalue="JUnit.Matrix01.test1" />
+        <item itemvalue="JUnit.String01.test" />
+        <item itemvalue="Application.B" />
       </list>
     </recent_temporary>
   </component>
@@ -147,13 +171,7 @@
       <workItem from="1660673979479" duration="2583000" />
       <workItem from="1660731435084" duration="15515000" />
       <workItem from="1660781228556" duration="682000" />
-    </task>
-    <task id="LOCAL-00001" summary="initialize">
-      <created>1660495554381</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1660495554381</updated>
+      <workItem from="1660829359573" duration="7687000" />
     </task>
     <task id="LOCAL-00002" summary="Problem.641&#10;first commit">
       <created>1660499303743</created>
@@ -491,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660781814804</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="default">
+      <created>1660829612270</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1660829612271</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +525,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.66&#10;first commit" />
     <MESSAGE value="Problem.88&#10;first commit" />
     <MESSAGE value="Problem.108&#10;first commit" />
     <MESSAGE value="Problem.118&#10;first commit" />
@@ -525,6 +549,7 @@
     <MESSAGE value="Codeforces 1718A &amp; 1718B&#10;first commit" />
     <MESSAGE value="Problem.1224&#10;first commit" />
     <MESSAGE value="Problem.5&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.5&#10;first commit" />
+    <MESSAGE value="default" />
+    <option name="LAST_COMMIT_MESSAGE" value="default" />
   </component>
 </project>
