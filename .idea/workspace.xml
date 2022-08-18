@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/matrix/Matrix01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r815div2/E.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/test/src/string/String01.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1712/A_WonderfulPermutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1712/B_WoefulPermutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1712/C_SortZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1712/D_EmptyGraph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1716/A_2To3Moves.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1718/A_BurenkaAndTraditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1718/B_FibonacciStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1719/A_ChipGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1719/B_MathematicalCircus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1719/C_FightingTournament.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c1719/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c4/A_Watermelon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/com/c71/A_WayTooLongWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/string/String01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/string/String01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1450]在既定时间做作业的学生人数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1450]在既定时间做作业的学生人数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,14 +152,7 @@
       <workItem from="1660673979479" duration="2583000" />
       <workItem from="1660731435084" duration="15515000" />
       <workItem from="1660781228556" duration="682000" />
-      <workItem from="1660829359573" duration="7687000" />
-    </task>
-    <task id="LOCAL-00002" summary="Problem.641&#10;first commit">
-      <created>1660499303743</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1660499303743</updated>
+      <workItem from="1660829359573" duration="8483000" />
     </task>
     <task id="LOCAL-00003" summary="Problem.814&#10;剑指Offer II 047&#10;first commit">
       <created>1660580076910</created>
@@ -516,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660829612271</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Codeforces 815 div.2&#10;first commit&#10;A,B,C accomplished&#10;D,E TODO">
+      <created>1660838482384</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1660838482384</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +506,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.88&#10;first commit" />
     <MESSAGE value="Problem.108&#10;first commit" />
     <MESSAGE value="Problem.118&#10;first commit" />
     <MESSAGE value="Problem.119&#10;first commit" />
@@ -550,6 +530,7 @@
     <MESSAGE value="Problem.1224&#10;first commit" />
     <MESSAGE value="Problem.5&#10;first commit" />
     <MESSAGE value="default" />
-    <option name="LAST_COMMIT_MESSAGE" value="default" />
+    <MESSAGE value="Codeforces 815 div.2&#10;first commit&#10;A,B,C accomplished&#10;D,E TODO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 815 div.2&#10;first commit&#10;A,B,C accomplished&#10;D,E TODO" />
   </component>
 </project>
