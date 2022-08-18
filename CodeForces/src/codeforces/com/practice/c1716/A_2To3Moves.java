@@ -1,4 +1,4 @@
-package codeforces.com.c1716;
+package codeforces.com.practice.c1716;
 
 import java.util.Scanner;
 

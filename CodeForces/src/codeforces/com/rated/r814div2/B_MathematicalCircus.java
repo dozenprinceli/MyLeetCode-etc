@@ -1,4 +1,4 @@
-package codeforces.com.c1719;
+package codeforces.com.rated.r814div2;
 
 import java.util.Scanner;
 

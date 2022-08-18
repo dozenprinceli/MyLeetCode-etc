@@ -1,4 +1,4 @@
-package codeforces.com.c1712;
+package codeforces.com.practice.c1712;
 
 import java.util.HashMap;
 import java.util.Map;

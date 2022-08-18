@@ -1,4 +1,4 @@
-package codeforces.com.c1718;
+package codeforces.com.rated.r814div2;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author Dozen Lee<br/>
  * 2022/8/17 23:40
  */
-public class A_BurenkaAndTraditions {
+public class D_BurenkaAndTraditions {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int testTimes = scan.nextInt();

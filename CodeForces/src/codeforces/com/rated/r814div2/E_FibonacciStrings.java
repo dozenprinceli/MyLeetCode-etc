@@ -1,4 +1,4 @@
-package codeforces.com.c1718;
+package codeforces.com.rated.r814div2;
 
 import java.util.*;
 
@@ -6,7 +6,7 @@ import java.util.*;
  * @author Dozen Lee<br/>
  * 2022/8/17 23:47
  */
-public class B_FibonacciStrings {
+public class E_FibonacciStrings {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int testTimes = scan.nextInt();

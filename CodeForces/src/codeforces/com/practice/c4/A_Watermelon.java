@@ -1,4 +1,4 @@
-package codeforces.com.c4;
+package codeforces.com.practice.c4;
 
 import java.util.Scanner;
 
