@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.697&#10;first commit">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[442]数组中重复的数据.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[442]数组中重复的数据.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/solution/shu-zu-zhong-zhong-fu-de-shu-ju-by-leetc-782l.lcv" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.442&#10;first commit">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[41]缺失的第一个正数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[41]缺失的第一个正数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,14 +152,7 @@
       <workItem from="1660781228556" duration="682000" />
       <workItem from="1660829359573" duration="8513000" />
       <workItem from="1660899481452" duration="3395000" />
-      <workItem from="1660925318558" duration="6131000" />
-    </task>
-    <task id="LOCAL-00009" summary="Codeforces 814 Div.2&#10;first commit">
-      <created>1660669620346</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1660669620346</updated>
+      <workItem from="1660925318558" duration="7952000" />
     </task>
     <task id="LOCAL-00010" summary="Codeforces 814 Div.2&#10;C题更新为正确答案，且添加Test类用于生成测试数据">
       <created>1660672640062</created>
@@ -496,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660931818770</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Problem.442&#10;first commit">
+      <created>1660932294322</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1660932294322</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +517,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.217&#10;first commit" />
     <MESSAGE value="Problem.219&#10;first commit" />
     <MESSAGE value="Problem.228&#10;first commit" />
     <MESSAGE value="Problem.268&#10;first commit" />
@@ -541,7 +541,8 @@
     <MESSAGE value="Problem.628&#10;first commit" />
     <MESSAGE value="Problem.645&#10;first commit" />
     <MESSAGE value="Problem.697&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.697&#10;first commit" />
+    <MESSAGE value="Problem.442&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.442&#10;first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
