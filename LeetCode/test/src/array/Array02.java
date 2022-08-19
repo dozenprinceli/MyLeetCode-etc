@@ -25,4 +25,23 @@ public class Array02 {
             System.out.println(Arrays.toString(arr));
         }
     }
+
+    @Test
+    public void test396() {
+        int[] arr = new int[]{4, 3, 2, 6};
+        System.out.println(maxRotateFunction(arr));
+    }
+
+    public int maxRotateFunction(int[] nums) {
+        int n = nums.length;
+        int max = Integer.MIN_VALUE;
+        for (int i = 0; i < n; i++) {
+            int cur = 0;
+            for (int j = 0; j < n; j++) {
+                cur += j * nums[(j + n - i) % n];
+            }
+            max = Math.max(max, cur);
+        }
+        return max;
+    }
 }
