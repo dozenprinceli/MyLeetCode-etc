@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/AtCoder/AtCoder.iml" filepath="$PROJECT_DIR$/AtCoder/AtCoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeForces/CodeForces.iml" filepath="$PROJECT_DIR$/CodeForces/CodeForces.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exams/Exams.iml" filepath="$PROJECT_DIR$/Exams/Exams.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/test/test.iml" filepath="$PROJECT_DIR$/LeetCode/test/test.iml" />
     </modules>
