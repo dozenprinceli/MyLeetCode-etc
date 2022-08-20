@@ -11,8 +11,8 @@ import java.util.*;
 public class Array03 {
     @Test
     public void test() {
-        int[] nums = new int[]{1,2,5,6,1};
-        int[] remove = new int[]{0,3,2,4,1};
+        int[] nums = new int[]{1, 2, 5, 6, 1};
+        int[] remove = new int[]{0, 3, 2, 4, 1};
         System.out.println(Arrays.toString(maximumSegmentSum(nums, remove)));
     }
 
@@ -86,4 +86,5 @@ public class Array03 {
         }
         return max;
     }
+
 }
