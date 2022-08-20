@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.665&#10;first commit">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[396]旋转函数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[396]旋转函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.396&#10;first commit">
+      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/c146/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/c146/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/c146/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/array/Array03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/test/src/array/Array02.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/test/src/array/Array02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exams/Exams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exams/Exams.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/editor/cn/doc/content/[535]TinyURL 的加密与解密.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/editor/cn/doc/content/[535]TinyURL 的加密与解密.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +69,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Array02.test396">
-    <configuration name="Test2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam0819.Test2_1" />
-      <module name="Exams" />
+  <component name="RunManager" selected="JUnit.Array03.test">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atcoder.jp.contest.c146.A" />
+      <module name="AtCoder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exam0819.*" />
+          <option name="PATTERN" value="atcoder.jp.contest.c146.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,33 +83,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam0819.Test2_4" />
-      <module name="Exams" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exam0819.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exam0819.Test2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam0819.Test2_2" />
-      <module name="Exams" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exam0819.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array02.test396" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Array03.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -105,24 +92,55 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.Array02" />
-      <option name="METHOD_NAME" value="test396" />
+      <option name="MAIN_CLASS_NAME" value="array.Array03" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array02.test628" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+    <configuration name="Solution1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="contest.biweekly.c85.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.Array02" />
-      <option name="METHOD_NAME" value="test628" />
+      <option name="PACKAGE_NAME" value="contest.biweekly.c85" />
+      <option name="MAIN_CLASS_NAME" value="contest.biweekly.c85.Solution1" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.String02" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String02.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.String02" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Array02.test396" />
-        <item itemvalue="JUnit.Array02.test628" />
-        <item itemvalue="Application.Test2_4" />
-        <item itemvalue="Application.exam0819.Test2_2" />
-        <item itemvalue="Application.Test2_1" />
+        <item itemvalue="JUnit.Array03.test" />
+        <item itemvalue="JUnit.String02" />
+        <item itemvalue="JUnit.String02.test" />
+        <item itemvalue="JUnit.Solution1.test" />
+        <item itemvalue="Application.A" />
       </list>
     </recent_temporary>
   </component>
@@ -157,14 +175,9 @@
       <workItem from="1660829359573" duration="8513000" />
       <workItem from="1660899481452" duration="3395000" />
       <workItem from="1660925318558" duration="8177000" />
-      <workItem from="1660940247456" duration="5607000" />
-    </task>
-    <task id="LOCAL-00014" summary="Problem.3&#10;first commit">
-      <created>1660674873473</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1660674873473</updated>
+      <workItem from="1660940247456" duration="5621000" />
+      <workItem from="1660961956987" duration="6015000" />
+      <workItem from="1660996621780" duration="9277000" />
     </task>
     <task id="LOCAL-00015" summary="Problem.11&#10;first commit">
       <created>1660674935936</created>
@@ -502,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660944371212</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Problem.396&#10;first commit">
+      <created>1660946322708</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1660946322708</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +542,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.349&#10;first commit" />
     <MESSAGE value="Problem.350&#10;first commit" />
     <MESSAGE value="Problem.414&#10;first commit" />
     <MESSAGE value="Problem.448&#10;first commit" />
@@ -547,7 +566,8 @@
     <MESSAGE value="Problem.274&#10;first commit" />
     <MESSAGE value="Problem.453&#10;first commit" />
     <MESSAGE value="Problem.665&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.665&#10;first commit" />
+    <MESSAGE value="Problem.396&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.396&#10;first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
