@@ -102,6 +102,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1455]检查单词是否为句中其他单词的前缀.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1455]检查单词是否为句中其他单词的前缀.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1455" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1455]检查单词是否为句中其他单词的前缀.java" />
+              <option name="titleSlug" value="check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[14]最长公共前缀.java">
           <value>
             <LeetcodeEditor>

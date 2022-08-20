@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="LeetCode Biweekly 85&#10;first commit">
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution4.java" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="LeetCode Biweekly 85&#10;Problem 4 modify">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1455]检查单词是否为句中其他单词的前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1455]检查单词是否为句中其他单词的前缀.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,14 +161,7 @@
       <workItem from="1660925318558" duration="8177000" />
       <workItem from="1660940247456" duration="5621000" />
       <workItem from="1660961956987" duration="6015000" />
-      <workItem from="1660996621780" duration="9941000" />
-    </task>
-    <task id="LOCAL-00017" summary="Problem.16&#10;first commit">
-      <created>1660675037273</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1660675037273</updated>
+      <workItem from="1660996621780" duration="10335000" />
     </task>
     <task id="LOCAL-00018" summary="Problem.18&#10;first commit">
       <created>1660675219982</created>
@@ -505,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661010992717</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="LeetCode Biweekly 85&#10;Problem 4 modify">
+      <created>1661011620268</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1661011620269</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +526,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.448&#10;first commit" />
     <MESSAGE value="Problem.455&#10;first commit" />
     <MESSAGE value="Problem.463&#10;first commit" />
     <MESSAGE value="Problem.495&#10;first commit" />
@@ -550,7 +550,8 @@
     <MESSAGE value="Problem.396&#10;first commit" />
     <MESSAGE value="AtCoder Regular Contest 146&#10;first commit" />
     <MESSAGE value="LeetCode Biweekly 85&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Biweekly 85&#10;first commit" />
+    <MESSAGE value="LeetCode Biweekly 85&#10;Problem 4 modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Biweekly 85&#10;Problem 4 modify" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
