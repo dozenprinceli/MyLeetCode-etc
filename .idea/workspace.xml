@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.396&#10;first commit">
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/c146/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/c146/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/c146/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0820/Solution5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/array/Array03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exams/Exams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exams/Exams.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/editor/cn/doc/content/[535]TinyURL 的加密与解密.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/editor/cn/doc/content/[535]TinyURL 的加密与解密.md" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="LeetCode Biweekly 85&#10;first commit">
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,21 +160,7 @@
       <workItem from="1660925318558" duration="8177000" />
       <workItem from="1660940247456" duration="5621000" />
       <workItem from="1660961956987" duration="6015000" />
-      <workItem from="1660996621780" duration="9277000" />
-    </task>
-    <task id="LOCAL-00015" summary="Problem.11&#10;first commit">
-      <created>1660674935936</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1660674935936</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Problem.15&#10;first commit">
-      <created>1660675005247</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1660675005247</updated>
+      <workItem from="1660996621780" duration="9941000" />
     </task>
     <task id="LOCAL-00017" summary="Problem.16&#10;first commit">
       <created>1660675037273</created>
@@ -522,7 +491,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660946322708</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="AtCoder Regular Contest 146&#10;first commit">
+      <created>1661010968239</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1661010968239</updated>
+    </task>
+    <task id="LOCAL-00065" summary="LeetCode Biweekly 85&#10;first commit">
+      <created>1661010992717</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1661010992717</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,8 +525,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.350&#10;first commit" />
-    <MESSAGE value="Problem.414&#10;first commit" />
     <MESSAGE value="Problem.448&#10;first commit" />
     <MESSAGE value="Problem.455&#10;first commit" />
     <MESSAGE value="Problem.463&#10;first commit" />
@@ -567,7 +548,9 @@
     <MESSAGE value="Problem.453&#10;first commit" />
     <MESSAGE value="Problem.665&#10;first commit" />
     <MESSAGE value="Problem.396&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.396&#10;first commit" />
+    <MESSAGE value="AtCoder Regular Contest 146&#10;first commit" />
+    <MESSAGE value="LeetCode Biweekly 85&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Biweekly 85&#10;first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
