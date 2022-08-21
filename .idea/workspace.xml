@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.655&#10;first commit">
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.498&#10;first commit">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[566]重塑矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[566]重塑矩阵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[498]对角线遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[498]对角线遍历.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,14 +164,7 @@
       <workItem from="1661012130170" duration="335000" />
       <workItem from="1661031887742" duration="13028000" />
       <workItem from="1661098228191" duration="2896000" />
-      <workItem from="1661109928014" duration="397000" />
-    </task>
-    <task id="LOCAL-00026" summary="Problem.118&#10;first commit">
-      <created>1660675675793</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1660675675793</updated>
+      <workItem from="1661109928014" duration="1728000" />
     </task>
     <task id="LOCAL-00027" summary="Problem.119&#10;first commit">
       <created>1660675718444</created>
@@ -507,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661101038529</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Problem.498&#10;first commit">
+      <created>1661110536776</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1661110536776</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +529,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="default" />
     <MESSAGE value="Codeforces 815 div.2&#10;first commit&#10;A,B,C accomplished&#10;D,E TODO" />
     <MESSAGE value="Problem.1450&#10;first commit" />
     <MESSAGE value="Exam0819&#10;first commit" />
@@ -552,7 +553,8 @@
     <MESSAGE value="Problem.59&#10;first commit" />
     <MESSAGE value="AtCoder Beginner Contest 265&#10;first commit" />
     <MESSAGE value="Problem.655&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.655&#10;first commit" />
+    <MESSAGE value="Problem.498&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.498&#10;first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
