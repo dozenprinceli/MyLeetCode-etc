@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.434&#10;first commit">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[58]最后一个单词的长度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[58]最后一个单词的长度.md" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.344&#10;first commit">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[541]反转字符串 II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[541]反转字符串 II.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -164,21 +164,7 @@
       <workItem from="1661012130170" duration="335000" />
       <workItem from="1661031887742" duration="13028000" />
       <workItem from="1661098228191" duration="2896000" />
-      <workItem from="1661109928014" duration="10015000" />
-    </task>
-    <task id="LOCAL-00036" summary="Problem.283&#10;first commit">
-      <created>1660676184389</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1660676184389</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Problem.349&#10;first commit">
-      <created>1660676219007</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1660676219007</updated>
+      <workItem from="1661109928014" duration="11585000" />
     </task>
     <task id="LOCAL-00038" summary="Problem.350&#10;first commit">
       <created>1660676254187</created>
@@ -509,7 +495,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661120403632</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Problem.58&#10;first commit">
+      <created>1661120947644</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1661120947644</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Problem.344&#10;first commit">
+      <created>1661121182482</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1661121182482</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,8 +529,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.274&#10;first commit" />
-    <MESSAGE value="Problem.453&#10;first commit" />
     <MESSAGE value="Problem.665&#10;first commit" />
     <MESSAGE value="Problem.396&#10;first commit" />
     <MESSAGE value="AtCoder Regular Contest 146&#10;first commit" />
@@ -554,7 +552,9 @@
     <MESSAGE value="Problem.520&#10;first commit" />
     <MESSAGE value="Problem.125&#10;first commit" />
     <MESSAGE value="Problem.434&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.434&#10;first commit" />
+    <MESSAGE value="Problem.58&#10;first commit" />
+    <MESSAGE value="Problem.344&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.344&#10;first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
