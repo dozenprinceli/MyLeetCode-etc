@@ -38,7 +38,34 @@ class Solution {
         int n = mat[0].length;
         int[] ans = new int[m * n];
         int layer = 0;
+        int curIdx = 0;
+        boolean direction = false;
+        for (int i = 0; i < m + n; i++) {
+            if (direction) {
+                for (int x = 0; x <= layer; x++) {
+                    int y = layer - x;
+                    if (isLegal(m, n, x, y)) {
+                        ans[curIdx] = mat[x][y];
+                        curIdx++;
+                    }
+                }
+            } else {
+                for (int x = layer; x >= 0; x--) {
+                    int y = layer - x;
+                    if (isLegal(m, n, x, y)) {
+                        ans[curIdx] = mat[x][y];
+                        curIdx++;
+                    }
+                }
+            }
+            direction = !direction;
+            layer++;
+        }
+        return ans;
+    }
 
+    private boolean isLegal(int m, int n, int r, int c) {
+        return 0 <= r && r < m && 0 <= c && c < n;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
