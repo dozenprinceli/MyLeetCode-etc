@@ -1,16 +1,13 @@
-package atcoder.jp.contest.c146;
+package atcoder.jp.contest.b265;
 
 import java.util.Scanner;
 
 /**
  * @author Dozen Lee<br/>
- * 2022/8/20 20:41
+ * 2022/8/21 19:57
  */
-public class C {
+public class Ex {
     public static void main(String[] args) {
-        int MOD = 998_244_353;
         Scanner scan = new Scanner(System.in);
-        int n = scan.nextInt();
-
     }
 }

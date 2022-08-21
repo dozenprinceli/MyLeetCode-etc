@@ -1,4 +1,4 @@
-package atcoder.jp.contest.c146;
+package atcoder.jp.contest.r146;
 
 import java.util.ArrayList;
 import java.util.Arrays;
