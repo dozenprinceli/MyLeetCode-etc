@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.238&#10;first commit">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[520]检测大写字母.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[520]检测大写字母.md" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.520&#10;first commit">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[125]验证回文串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[125]验证回文串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.D">
+  <component name="RunManager" selected="JUnit.String03.test125">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atcoder.jp.contest.b265.A" />
       <module name="AtCoder" />
@@ -111,17 +114,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array04.test598" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="String03.test125" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.Array04" />
-      <option name="METHOD_NAME" value="test598" />
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.String03" />
+      <option name="METHOD_NAME" value="test125" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.String03.test125" />
         <item itemvalue="Application.D" />
         <item itemvalue="Application.C" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.A" />
-        <item itemvalue="JUnit.Array04.test598" />
       </list>
     </recent_temporary>
   </component>
@@ -162,14 +165,7 @@
       <workItem from="1661012130170" duration="335000" />
       <workItem from="1661031887742" duration="13028000" />
       <workItem from="1661098228191" duration="2896000" />
-      <workItem from="1661109928014" duration="7790000" />
-    </task>
-    <task id="LOCAL-00033" summary="Problem.228&#10;first commit">
-      <created>1660676092706</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1660676092706</updated>
+      <workItem from="1661109928014" duration="8990000" />
     </task>
     <task id="LOCAL-00034" summary="Problem.268&#10;first commit">
       <created>1660676123527</created>
@@ -507,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661118361000</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Problem.520&#10;first commit">
+      <created>1661118961658</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1661118961658</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +530,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.697&#10;first commit" />
     <MESSAGE value="Problem.442&#10;first commit" />
     <MESSAGE value="Problem.41&#10;first commit" />
     <MESSAGE value="Problem.274&#10;first commit" />
@@ -552,7 +554,8 @@
     <MESSAGE value="Problem.289&#10;first commit" />
     <MESSAGE value="Problem.304&#10;first commit" />
     <MESSAGE value="Problem.238&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.238&#10;first commit" />
+    <MESSAGE value="Problem.520&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.520&#10;first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
