@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.389&#10;first commit">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1460]通过翻转子数组使两个数组相等.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[242]有效的字母异位词.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[383]赎金信.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[49]字母异位词分组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1460]通过翻转子数组使两个数组相等.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[242]有效的字母异位词.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[383]赎金信.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[49]字母异位词分组.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,14 +181,7 @@
       <workItem from="1661229351199" duration="3563000" />
       <workItem from="1661262277098" duration="1700000" />
       <workItem from="1661264003969" duration="1259000" />
-      <workItem from="1661270947127" duration="1989000" />
-    </task>
-    <task id="LOCAL-00045" summary="Problem.496&#10;first commit">
-      <created>1660676489039</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1660676489040</updated>
+      <workItem from="1661270947127" duration="3177000" />
     </task>
     <task id="LOCAL-00046" summary="Problem.500&#10;first commit">
       <created>1660676526256</created>
@@ -533,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661262336794</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Problem.242&#10;Problem.383&#10;Problem.1460&#10;first commit">
+      <created>1661272980218</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1661272980219</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +546,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.598&#10;first commit" />
     <MESSAGE value="Problem.419&#10;first commit" />
     <MESSAGE value="Problem.189&#10;first commit" />
     <MESSAGE value="Problem.54&#10;first commit" />
@@ -578,7 +570,8 @@
     <MESSAGE value="Problem.151&#10;first commit" />
     <MESSAGE value="Problem.387&#10;first commit" />
     <MESSAGE value="Problem.389&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.389&#10;first commit" />
+    <MESSAGE value="Problem.242&#10;Problem.383&#10;Problem.1460&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.242&#10;Problem.383&#10;Problem.1460&#10;first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
