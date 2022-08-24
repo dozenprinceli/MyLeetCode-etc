@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.389&#10;first commit">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[49]字母异位词分组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[49]字母异位词分组.md" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.49&#10;first commit">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[423]从英文中重建数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[451]根据字符出现频率排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[467]环绕字符串中唯一的子字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[551]学生出勤记录 I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[657]机器人能否返回原点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[658]找到 K 个最接近的元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[696]计数二进制子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[423]从英文中重建数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[451]根据字符出现频率排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[467]环绕字符串中唯一的子字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[551]学生出勤记录 I.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[657]机器人能否返回原点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[658]找到 K 个最接近的元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[696]计数二进制子串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +68,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -65,20 +80,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.String04.test">
-    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atcoder.jp.contest.b265.D" />
-      <module name="AtCoder" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="atcoder.jp.contest.b265.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.String05.test423">
     <configuration name="Tree01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.Tree01" />
       <module name="test" />
@@ -140,13 +142,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String05.test423" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.String05" />
+      <option name="METHOD_NAME" value="test423" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.String05.test423" />
         <item itemvalue="JUnit.String04.test" />
         <item itemvalue="JUnit.Matrix02.test782" />
         <item itemvalue="Application.Tree01" />
         <item itemvalue="JUnit.String03.test125" />
-        <item itemvalue="Application.D" />
       </list>
     </recent_temporary>
   </component>
@@ -181,14 +199,9 @@
       <workItem from="1661229351199" duration="3563000" />
       <workItem from="1661262277098" duration="1700000" />
       <workItem from="1661264003969" duration="1259000" />
-      <workItem from="1661270947127" duration="3177000" />
-    </task>
-    <task id="LOCAL-00046" summary="Problem.500&#10;first commit">
-      <created>1660676526256</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1660676526256</updated>
+      <workItem from="1661270947127" duration="8717000" />
+      <workItem from="1661289025886" duration="11000" />
+      <workItem from="1661349750426" duration="1518000" />
     </task>
     <task id="LOCAL-00047" summary="Codeforces 1718A &amp; 1718B&#10;first commit">
       <created>1660760207006</created>
@@ -526,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661272980219</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Problem.49&#10;first commit">
+      <created>1661276503700</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1661276503700</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +566,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.419&#10;first commit" />
     <MESSAGE value="Problem.189&#10;first commit" />
     <MESSAGE value="Problem.54&#10;first commit" />
     <MESSAGE value="Problem.59&#10;first commit" />
@@ -571,7 +590,8 @@
     <MESSAGE value="Problem.387&#10;first commit" />
     <MESSAGE value="Problem.389&#10;first commit" />
     <MESSAGE value="Problem.242&#10;Problem.383&#10;Problem.1460&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.242&#10;Problem.383&#10;Problem.1460&#10;first commit" />
+    <MESSAGE value="Problem.49&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.49&#10;first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
