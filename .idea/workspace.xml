@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.506/1464&#10;first commit">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[38]外观数列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[443]压缩字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[537]复数乘法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[539]最小时间差.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[553]最优除法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[592]分数加减运算.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[38]外观数列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[443]压缩字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[537]复数乘法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[539]最小时间差.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[553]最优除法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[592]分数加减运算.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String08.java" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[13]罗马数字转整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[165]比较版本号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[273]整数转换英文表示.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[481]神奇字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[662]二叉树最大宽度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[13]罗马数字转整数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[165]比较版本号.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[273]整数转换英文表示.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[481]神奇字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[662]二叉树最大宽度.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/tree/Tree02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,54 +79,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.String08.test443">
-    <configuration name="String06.test592" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String06" />
-      <option name="METHOD_NAME" value="test592" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String07" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String07.testFormatString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String07" />
-      <option name="METHOD_NAME" value="testFormatString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.String10.test481">
     <configuration name="String08.test443" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -160,13 +112,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String09.test273" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.String09" />
+      <option name="METHOD_NAME" value="test273" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String10.test481" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.String10" />
+      <option name="METHOD_NAME" value="test481" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree02.test662" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tree" />
+      <option name="MAIN_CLASS_NAME" value="tree.Tree02" />
+      <option name="METHOD_NAME" value="test662" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.String10.test481" />
+        <item itemvalue="JUnit.Tree02.test662" />
+        <item itemvalue="JUnit.String09.test273" />
         <item itemvalue="JUnit.String08.test443" />
         <item itemvalue="JUnit.String08.testSplitDigits" />
-        <item itemvalue="JUnit.String07.testFormatString" />
-        <item itemvalue="JUnit.String07" />
-        <item itemvalue="JUnit.String06.test592" />
       </list>
     </recent_temporary>
   </component>
@@ -206,14 +206,9 @@
       <workItem from="1661349750426" duration="4901000" />
       <workItem from="1661402427041" duration="2361000" />
       <workItem from="1661443754758" duration="515000" />
-      <workItem from="1661448219231" duration="7239000" />
-    </task>
-    <task id="LOCAL-00051" summary="Codeforces 815 div.2&#10;first commit&#10;A,B,C accomplished&#10;D,E TODO">
-      <created>1660838482384</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1660838482384</updated>
+      <workItem from="1661448219231" duration="7590000" />
+      <workItem from="1661493575858" duration="599000" />
+      <workItem from="1661526177015" duration="8941000" />
     </task>
     <task id="LOCAL-00052" summary="Problem.1450&#10;first commit">
       <created>1660840343889</created>
@@ -551,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661444145203</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Problem.38/443/537/539/553/592 first commit">
+      <created>1661457142989</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1661457142989</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,7 +573,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.655&#10;first commit" />
     <MESSAGE value="Problem.498&#10;first commit" />
     <MESSAGE value="Problem.566&#10;first commit" />
     <MESSAGE value="Problem.48&#10;first commit" />
@@ -596,7 +597,8 @@
     <MESSAGE value="Problem.467&#10;first commit" />
     <MESSAGE value="Problem.299/412&#10;first commit" />
     <MESSAGE value="Problem.506/1464&#10;first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.506/1464&#10;first commit" />
+    <MESSAGE value="Problem.38/443/537/539/553/592 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.38/443/537/539/553/592 first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -605,6 +607,11 @@
           <url>file://$PROJECT_DIR$/Exams/src/exam0819/Test2_1.java</url>
           <line>17</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/test/src/string/String10.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

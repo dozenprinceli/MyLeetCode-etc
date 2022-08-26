@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[12]整数转罗马数字.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[12]整数转罗马数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn12" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[12]整数转罗马数字.java" />
+              <option name="titleSlug" value="integer-to-roman" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1302]层数最深叶子节点的和.java">
           <value>
             <LeetcodeEditor>
@@ -99,6 +110,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[136]只出现一次的数字.java" />
               <option name="titleSlug" value="single-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[13]罗马数字转整数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[13]罗马数字转整数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn13" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[13]罗马数字转整数.java" />
+              <option name="titleSlug" value="roman-to-integer" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -187,6 +209,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1656]设计有序流.java" />
               <option name="titleSlug" value="design-an-ordered-stream" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[165]比较版本号.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[165]比较版本号.md" />
+              <option name="frontendQuestionId" value="leetcode.cn165" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[165]比较版本号.java" />
+              <option name="titleSlug" value="compare-version-numbers" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -330,6 +363,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[26]删除有序数组中的重复项.java" />
               <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[273]整数转换英文表示.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[273]整数转换英文表示.md" />
+              <option name="frontendQuestionId" value="leetcode.cn273" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[273]整数转换英文表示.java" />
+              <option name="titleSlug" value="integer-to-english-words" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -693,6 +737,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[467]环绕字符串中唯一的子字符串.java" />
               <option name="titleSlug" value="unique-substrings-in-wraparound-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[481]神奇字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[481]神奇字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn481" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[481]神奇字符串.java" />
+              <option name="titleSlug" value="magical-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1078,6 +1133,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[661]图片平滑器.java" />
               <option name="titleSlug" value="image-smoother" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[662]二叉树最大宽度.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[662]二叉树最大宽度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn662" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[662]二叉树最大宽度.java" />
+              <option name="titleSlug" value="maximum-width-of-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
