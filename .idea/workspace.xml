@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[392]判断子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[521]最长特殊序列 Ⅰ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[522]最长特殊序列 II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[524]通过删除字母匹配到字典里最长单词.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[392]判断子序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[521]最长特殊序列 Ⅰ.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[522]最长特殊序列 II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[524]通过删除字母匹配到字典里最长单词.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/educational/r134div2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/educational/r134div2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/educational/r134div2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/educational/r134div2/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_360/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_360/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/E.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,94 +81,79 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.String11.test522">
-    <configuration name="String08.test443" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+  <component name="RunManager" selected="Application.D">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.educational.r134div2.A" />
+      <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="codeforces.com.rated.educational.r134div2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String08" />
-      <option name="METHOD_NAME" value="test443" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String09.test273" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.educational.r134div2.C" />
+      <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="codeforces.com.rated.educational.r134div2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String09" />
-      <option name="METHOD_NAME" value="test273" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String10.test481" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.educational.r134div2.D" />
+      <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="codeforces.com.rated.educational.r134div2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String10" />
-      <option name="METHOD_NAME" value="test481" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String11.test522" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+    <configuration name="F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atcoder.jp.contest.b266.F" />
+      <module name="AtCoder" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="atcoder.jp.contest.b266.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String11" />
-      <option name="METHOD_NAME" value="test522" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree02.test662" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+    <configuration name="codeforces.com.rated.educational.r134div2.B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.educational.r134div2.B" />
+      <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tree.*" />
+          <option name="PATTERN" value="codeforces.com.rated.educational.r134div2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tree" />
-      <option name="MAIN_CLASS_NAME" value="tree.Tree02" />
-      <option name="METHOD_NAME" value="test662" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.String11.test522" />
-        <item itemvalue="JUnit.String10.test481" />
-        <item itemvalue="JUnit.Tree02.test662" />
-        <item itemvalue="JUnit.String09.test273" />
-        <item itemvalue="JUnit.String08.test443" />
+        <item itemvalue="Application.D" />
+        <item itemvalue="Application.C" />
+        <item itemvalue="Application.codeforces.com.rated.educational.r134div2.B" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.F" />
       </list>
     </recent_temporary>
   </component>
@@ -203,14 +195,9 @@
       <workItem from="1661443754758" duration="515000" />
       <workItem from="1661448219231" duration="7590000" />
       <workItem from="1661493575858" duration="599000" />
-      <workItem from="1661526177015" duration="14363000" />
-    </task>
-    <task id="LOCAL-00053" summary="Exam0819&#10;first commit">
-      <created>1660925349254</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1660925349254</updated>
+      <workItem from="1661526177015" duration="14403000" />
+      <workItem from="1661582662665" duration="2962000" />
+      <workItem from="1661586519082" duration="17650000" />
     </task>
     <task id="LOCAL-00054" summary="Problem.654&#10;first commit">
       <created>1660926511656</created>
@@ -548,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661536151057</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Problem.392/521/522/524 first commit">
+      <created>1661550023642</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1661550023642</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +562,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.566&#10;first commit" />
     <MESSAGE value="Problem.48&#10;first commit" />
     <MESSAGE value="Problem.73&#10;first commit" />
     <MESSAGE value="Problem.289&#10;first commit" />
@@ -593,7 +586,8 @@
     <MESSAGE value="Problem.506/1464&#10;first commit" />
     <MESSAGE value="Problem.38/443/537/539/553/592 first commit" />
     <MESSAGE value="Problem.13/165/273/481/662 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.13/165/273/481/662 first commit" />
+    <MESSAGE value="Problem.392/521/522/524 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.392/521/522/524 first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
