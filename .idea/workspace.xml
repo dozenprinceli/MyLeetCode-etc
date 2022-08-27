@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/src/atcoder/jp/contest/b266/F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/educational/r134div2/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/educational/r134div2/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/educational/r134div2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/educational/r134div2/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_360/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_360/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exams/src/exam0827_metituan/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[793]阶乘函数后 K 个零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[793]阶乘函数后 K 个零.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/array/Array05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,20 +68,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.D">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.educational.r134div2.A" />
-      <module name="CodeForces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeforces.com.rated.educational.r134div2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Array05.testGetZeros">
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.educational.r134div2.C" />
       <module name="CodeForces" />
@@ -121,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atcoder.jp.contest.b266.F" />
-      <module name="AtCoder" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="atcoder.jp.contest.b266.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="codeforces.com.rated.educational.r134div2.B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.educational.r134div2.B" />
       <module name="CodeForces" />
@@ -147,13 +108,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Array05.output5Times" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="array" />
+      <option name="MAIN_CLASS_NAME" value="array.Array05" />
+      <option name="METHOD_NAME" value="output5Times" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array05.testGetZeros" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="array" />
+      <option name="MAIN_CLASS_NAME" value="array.Array05" />
+      <option name="METHOD_NAME" value="testGetZeros" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Array05.testGetZeros" />
+        <item itemvalue="JUnit.Array05.output5Times" />
         <item itemvalue="Application.D" />
         <item itemvalue="Application.C" />
         <item itemvalue="Application.codeforces.com.rated.educational.r134div2.B" />
-        <item itemvalue="Application.A" />
-        <item itemvalue="Application.F" />
       </list>
     </recent_temporary>
   </component>
@@ -197,28 +190,8 @@
       <workItem from="1661493575858" duration="599000" />
       <workItem from="1661526177015" duration="14403000" />
       <workItem from="1661582662665" duration="2962000" />
-      <workItem from="1661586519082" duration="17650000" />
-    </task>
-    <task id="LOCAL-00054" summary="Problem.654&#10;first commit">
-      <created>1660926511656</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1660926511656</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Problem.628&#10;first commit">
-      <created>1660928087471</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1660928087471</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Problem.645&#10;first commit">
-      <created>1660930960196</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1660930960196</updated>
+      <workItem from="1661586519082" duration="17769000" />
+      <workItem from="1661619627429" duration="2549000" />
     </task>
     <task id="LOCAL-00057" summary="Problem.697&#10;first commit">
       <created>1660931818770</created>
@@ -542,7 +515,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661550023642</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="AtCoder Beginner Contest 266">
+      <created>1661614366694</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1661614366694</updated>
+    </task>
+    <task id="LOCAL-00104" summary="美团 &amp; 360 校招笔试">
+      <created>1661614397218</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1661614397218</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Educational Codeforces Round 134">
+      <created>1661614438394</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1661614438394</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,9 +556,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.48&#10;first commit" />
-    <MESSAGE value="Problem.73&#10;first commit" />
-    <MESSAGE value="Problem.289&#10;first commit" />
     <MESSAGE value="Problem.304&#10;first commit" />
     <MESSAGE value="Problem.238&#10;first commit" />
     <MESSAGE value="Problem.520&#10;first commit" />
@@ -587,7 +578,10 @@
     <MESSAGE value="Problem.38/443/537/539/553/592 first commit" />
     <MESSAGE value="Problem.13/165/273/481/662 first commit" />
     <MESSAGE value="Problem.392/521/522/524 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.392/521/522/524 first commit" />
+    <MESSAGE value="AtCoder Beginner Contest 266" />
+    <MESSAGE value="美团 &amp; 360 校招笔试" />
+    <MESSAGE value="Educational Codeforces Round 134" />
+    <option name="LAST_COMMIT_MESSAGE" value="Educational Codeforces Round 134" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

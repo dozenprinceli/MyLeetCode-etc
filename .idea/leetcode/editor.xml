@@ -1268,6 +1268,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[793]阶乘函数后 K 个零.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[793]阶乘函数后 K 个零.md" />
+              <option name="frontendQuestionId" value="leetcode.cn793" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[793]阶乘函数后 K 个零.java" />
+              <option name="titleSlug" value="preimage-size-of-factorial-zeroes-function" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[814]二叉树剪枝.java">
           <value>
             <LeetcodeEditor>
