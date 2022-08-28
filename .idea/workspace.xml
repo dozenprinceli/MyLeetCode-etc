@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[415]字符串相加.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[67]二进制求和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[415]字符串相加.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[67]二进制求和.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/math/Math01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1470]重新排列数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1470]重新排列数组.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[43]字符串相乘.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[43]字符串相乘.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[793]阶乘函数后 K 个零.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[793]阶乘函数后 K 个零.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,21 +199,9 @@
       <workItem from="1661586519082" duration="17769000" />
       <workItem from="1661619627429" duration="3128000" />
       <workItem from="1661627634903" duration="5093000" />
-      <workItem from="1661667630392" duration="1328000" />
-    </task>
-    <task id="LOCAL-00058" summary="Problem.442&#10;first commit">
-      <created>1660932294322</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1660932294322</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Problem.41&#10;first commit">
-      <created>1660935726911</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1660935726911</updated>
+      <workItem from="1661667630392" duration="1618000" />
+      <workItem from="1661700625444" duration="627000" />
+      <workItem from="1661703848235" duration="454000" />
     </task>
     <task id="LOCAL-00060" summary="Problem.274&#10;first commit">
       <created>1660940797295</created>
@@ -550,7 +532,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661624081597</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Problem.67/415 first commit">
+      <created>1661669214357</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1661669214358</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Problem.793 使用近似的牛顿迭代代替二分法，提高收敛效率">
+      <created>1661669252565</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1661669252565</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,8 +566,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.238&#10;first commit" />
-    <MESSAGE value="Problem.520&#10;first commit" />
     <MESSAGE value="Problem.125&#10;first commit" />
     <MESSAGE value="Problem.434&#10;first commit" />
     <MESSAGE value="Problem.58&#10;first commit" />
@@ -595,7 +589,9 @@
     <MESSAGE value="美团 &amp; 360 校招笔试" />
     <MESSAGE value="Educational Codeforces Round 134" />
     <MESSAGE value="Problem.793 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.793 first commit" />
+    <MESSAGE value="Problem.67/415 first commit" />
+    <MESSAGE value="Problem.793 使用近似的牛顿迭代代替二分法，提高收敛效率" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.793 使用近似的牛顿迭代代替二分法，提高收敛效率" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -604,15 +600,6 @@
           <url>file://$PROJECT_DIR$/Exams/src/exam0819/Test2_1.java</url>
           <line>17</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LeetCode/test/src/math/Math01.java</url>
-          <line>15</line>
-          <properties class="math.Math01" method="preimageSizeFZF">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
