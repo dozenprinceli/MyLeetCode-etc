@@ -42,42 +42,39 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-    public String addStrings(String a, String b) {
+    public String addStrings(String shorter, String longer) {
+        if (shorter.equals("0")) {
+            return longer;
+        }
+        if (longer.equals("0")) {
+            return shorter;
+        }
+        if (shorter.length() > longer.length()) {
+            String tmp = shorter;
+            shorter = longer;
+            longer = tmp;
+        }
+        int sLen = shorter.length();
+        int lLen = longer.length();
+
         StringBuilder sb = new StringBuilder();
-        int n = Math.min(a.length(), b.length());
-        int add = 0;
-        for (int i = 0; i < n; i++) {
-            int curA = Integer.parseInt(String.valueOf(a.charAt(a.length() - i - 1)));
-            int curB = Integer.parseInt(String.valueOf(b.charAt(b.length() - i - 1)));
-            int cur = curA + curB + add;
-            if (cur > 9) {
-                add = 1;
-            } else {
-                add = 0;
-            }
-            sb.insert(0, cur % 10);
+        int carry = 0;
+        for (int i = 0; i < sLen; i++) {
+            int res = shorter.charAt(sLen - i - 1) - '0'
+                    + longer.charAt(lLen - i - 1) - '0'
+                    + carry;
+            carry = res / 10;
+            sb.append(res % 10);
         }
-        if (a.length() == b.length()) {
-            if (add == 1) {
-                sb.insert(0, 1);
-            }
-            return sb.toString();
+        for (int i = lLen - sLen - 1; i >= 0; i--) {
+            int res = longer.charAt(i) - '0' + carry;
+            carry = res / 10;
+            sb.append(res % 10);
         }
-        String s = a.length() > b.length() ? a : b;
-        for (int i = s.length() - n - 1; i >= 0; i--) {
-            int cur = Integer.parseInt(String.valueOf(s.charAt(i)));
-            cur += add;
-            if (cur == 10) {
-                add = 1;
-            } else {
-                add = 0;
-            }
-            sb.insert(0, cur % 10);
+        if (carry > 0) {
+            sb.append(carry);
         }
-        if (add == 1) {
-            sb.insert(0, 1);
-        }
-        return sb.toString();
+        return sb.reverse().toString();
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
