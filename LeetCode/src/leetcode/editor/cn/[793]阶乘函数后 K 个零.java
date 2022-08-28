@@ -47,17 +47,17 @@ class Solution {
         if (k == 0) {
             return 5;
         }
-        long left = 4L * k - 1;
-        long right = 5L * k + 1;
-        while (left < right - 1) {
-            long mid = (left + right) / 2;
-            int cur = getZeros(mid);
-            if (cur == k) {
+        long left = 4L * k;
+        long right = 5L * k;
+        while (right > left) {
+            int curZero = getZeros(right);
+            long next = right - 3L * (curZero - k); // 近似的牛顿迭代法, 平方收敛, 快于二分法
+            if (curZero == k) {
                 return 5;
-            } else if (cur < k) {
-                left = mid;
+            } else if (curZero < k) {
+                break;
             } else {
-                right = mid;
+                right = next;
             }
         }
         return 0;
