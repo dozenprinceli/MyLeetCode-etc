@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1323]6 和 9 组成的最大数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[306]累加数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[482]密钥格式化.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[214]最短回文串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[459]重复的子字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[647]回文子串.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[686]重复叠加字符串匹配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[68]文本左右对齐.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[6]Z 字形变换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1323]6 和 9 组成的最大数字.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[306]累加数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[482]密钥格式化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[998]最大二叉树 II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[214]最短回文串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[459]重复的子字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[596]超过5名学生的课.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[647]回文子串.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[686]重复叠加字符串匹配.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[68]文本左右对齐.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[6]Z 字形变换.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[998]最大二叉树 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -78,7 +77,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.String14.test306">
+  <component name="RunManager" selected="JUnit.String15.testSubstring">
     <configuration name="Math01.test793" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -90,22 +89,6 @@
       <option name="PACKAGE_NAME" value="math" />
       <option name="MAIN_CLASS_NAME" value="math.Math01" />
       <option name="METHOD_NAME" value="test793" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String12.test67" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String12" />
-      <option name="METHOD_NAME" value="test67" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,13 +142,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String15.testSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.String15" />
+      <option name="METHOD_NAME" value="testSubstring" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.String15.testSubstring" />
         <item itemvalue="JUnit.String14.test306" />
         <item itemvalue="JUnit.String14.testStringFeatures" />
         <item itemvalue="JUnit.String13.testOneDigitMulti" />
         <item itemvalue="JUnit.Math01.test793" />
-        <item itemvalue="JUnit.String12.test67" />
       </list>
     </recent_temporary>
   </component>
@@ -215,14 +214,9 @@
       <workItem from="1661667630392" duration="1618000" />
       <workItem from="1661700625444" duration="627000" />
       <workItem from="1661703848235" duration="550000" />
-      <workItem from="1661715745115" duration="8122000" />
-    </task>
-    <task id="LOCAL-00062" summary="Problem.665&#10;first commit">
-      <created>1660944371212</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1660944371212</updated>
+      <workItem from="1661715745115" duration="8160000" />
+      <workItem from="1661760381840" duration="813000" />
+      <workItem from="1661786868420" duration="9135000" />
     </task>
     <task id="LOCAL-00063" summary="Problem.396&#10;first commit">
       <created>1660946322708</created>
@@ -560,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661716995216</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Problem.6/68/306/482/1323 first commit">
+      <created>1661727182332</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1661727182332</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +581,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.58&#10;first commit" />
     <MESSAGE value="Problem.344&#10;first commit" />
     <MESSAGE value="Problem.541&#10;first commit" />
     <MESSAGE value="Problem.782&#10;first commit" />
@@ -605,7 +605,8 @@
     <MESSAGE value="Problem.793 使用近似的牛顿迭代代替二分法，提高收敛效率" />
     <MESSAGE value="Problem.1470 first commit" />
     <MESSAGE value="Problem.43 first commit; Problem.415 optimized." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.43 first commit; Problem.415 optimized." />
+    <MESSAGE value="Problem.6/68/306/482/1323 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.6/68/306/482/1323 first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
