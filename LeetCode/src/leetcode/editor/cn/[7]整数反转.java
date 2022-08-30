@@ -47,7 +47,65 @@
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int reverse(int x) {
+        if (x == 0) {
+            return 0;
+        }
+        String numStr = String.valueOf(x);
+        char[] numChars = numStr.toCharArray();
 
+        boolean isNegative = numChars[0] == '-';
+        int left = isNegative ? 1 : 0, right = numChars.length - 1;
+        while (left < right) {
+            char tmp = numChars[left];
+            numChars[left] = numChars[right];
+            numChars[right] = tmp;
+            left++;
+            right--;
+        }
+
+        int startIdx = isNegative ? 1 : 0;
+        for (int i = startIdx; i < numChars.length; i++) {
+            if (numChars[i] != '0') {
+                break;
+            } else {
+                numChars[i] = '\0';
+            }
+        }
+
+        StringBuilder sb = new StringBuilder();
+        for (char numChar : numChars) {
+            if (numChar != '\0') {
+                sb.append(numChar);
+            }
+        }
+
+        String ans = sb.toString();
+        if (isLegal(ans)) {
+            return Integer.parseInt(ans);
+        } else {
+            return 0;
+        }
+    }
+
+    private boolean isLegal(String numStr) {
+        boolean isNegative = numStr.charAt(0) == '-';
+        String compareStr = isNegative ? String.valueOf(Integer.MIN_VALUE).substring(1) : String.valueOf(Integer.MAX_VALUE);
+        if (isNegative) {
+            numStr = numStr.substring(1);
+        }
+        int numLen = numStr.length();
+        if (numLen != compareStr.length()) {
+            return numLen < compareStr.length();
+        }
+
+        for (int i = 0; i < numLen; i++) {
+            if (numStr.charAt(i) > compareStr.charAt(i)) {
+                return false;
+            } else if (numStr.charAt(i) < compareStr.charAt(i)) {
+                return true;
+            }
+        }
+        return true;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

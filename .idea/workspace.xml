@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[214]最短回文串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[459]重复的子字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[647]回文子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[686]重复叠加字符串匹配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[998]最大二叉树 II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[214]最短回文串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[459]重复的子字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[596]超过5名学生的课.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[647]回文子串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[686]重复叠加字符串匹配.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[998]最大二叉树 II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/F.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[7]整数反转.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[7]整数反转.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/test/src/string/String15.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,56 +72,48 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.String15.testSubstring">
-    <configuration name="Math01.test793" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+  <component name="RunManager" selected="Application.E">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r817div4.C" />
+      <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.*" />
+          <option name="PATTERN" value="codeforces.com.rated.r817div4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="math" />
-      <option name="MAIN_CLASS_NAME" value="math.Math01" />
-      <option name="METHOD_NAME" value="test793" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String13.testOneDigitMulti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r817div4.D" />
+      <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="codeforces.com.rated.r817div4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String13" />
-      <option name="METHOD_NAME" value="testOneDigitMulti" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String14.test306" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+    <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r817div4.E" />
+      <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="codeforces.com.rated.r817div4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String14" />
-      <option name="METHOD_NAME" value="test306" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String14.testStringFeatures" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="String15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.String15" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -134,15 +121,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String14" />
-      <option name="METHOD_NAME" value="testStringFeatures" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String15.testSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="String15.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -152,7 +135,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="string" />
       <option name="MAIN_CLASS_NAME" value="string.String15" />
-      <option name="METHOD_NAME" value="testSubstring" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.String15.testSubstring" />
-        <item itemvalue="JUnit.String14.test306" />
-        <item itemvalue="JUnit.String14.testStringFeatures" />
-        <item itemvalue="JUnit.String13.testOneDigitMulti" />
-        <item itemvalue="JUnit.Math01.test793" />
+        <item itemvalue="Application.E" />
+        <item itemvalue="Application.C" />
+        <item itemvalue="Application.String15" />
+        <item itemvalue="Application.D" />
+        <item itemvalue="JUnit.String15.test" />
       </list>
     </recent_temporary>
   </component>
@@ -216,14 +199,9 @@
       <workItem from="1661703848235" duration="550000" />
       <workItem from="1661715745115" duration="8160000" />
       <workItem from="1661760381840" duration="813000" />
-      <workItem from="1661786868420" duration="9135000" />
-    </task>
-    <task id="LOCAL-00063" summary="Problem.396&#10;first commit">
-      <created>1660946322708</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1660946322708</updated>
+      <workItem from="1661786868420" duration="9471000" />
+      <workItem from="1661843868180" duration="1922000" />
+      <workItem from="1661859014573" duration="11603000" />
     </task>
     <task id="LOCAL-00064" summary="AtCoder Regular Contest 146&#10;first commit">
       <created>1661010968239</created>
@@ -561,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661727182332</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Problem.214/459/596/647/686/998 first commit">
+      <created>1661797545963</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1661797545964</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +566,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.344&#10;first commit" />
     <MESSAGE value="Problem.541&#10;first commit" />
     <MESSAGE value="Problem.782&#10;first commit" />
     <MESSAGE value="Problem.557&#10;first commit" />
@@ -606,7 +590,8 @@
     <MESSAGE value="Problem.1470 first commit" />
     <MESSAGE value="Problem.43 first commit; Problem.415 optimized." />
     <MESSAGE value="Problem.6/68/306/482/1323 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.6/68/306/482/1323 first commit" />
+    <MESSAGE value="Problem.214/459/596/647/686/998 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.214/459/596/647/686/998 first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
