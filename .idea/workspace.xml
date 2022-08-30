@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r817div4/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[946]验证栈序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[946]验证栈序列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[7]整数反转.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[7]整数反转.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/test/src/string/String15.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,20 +197,7 @@
       <workItem from="1661786868420" duration="9471000" />
       <workItem from="1661843868180" duration="1922000" />
       <workItem from="1661859014573" duration="11603000" />
-    </task>
-    <task id="LOCAL-00064" summary="AtCoder Regular Contest 146&#10;first commit">
-      <created>1661010968239</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1661010968239</updated>
-    </task>
-    <task id="LOCAL-00065" summary="LeetCode Biweekly 85&#10;first commit">
-      <created>1661010992717</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1661010992717</updated>
+      <workItem from="1661879604231" duration="2807000" />
     </task>
     <task id="LOCAL-00066" summary="LeetCode Biweekly 85&#10;Problem 4 modify">
       <created>1661011620268</created>
@@ -546,7 +528,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661797545964</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Problem.7 first commit">
+      <created>1661879642479</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1661879642479</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Codeforces Round 817 div.4">
+      <created>1661879667521</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1661879667521</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,8 +562,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.541&#10;first commit" />
-    <MESSAGE value="Problem.782&#10;first commit" />
     <MESSAGE value="Problem.557&#10;first commit" />
     <MESSAGE value="Problem.151&#10;first commit" />
     <MESSAGE value="Problem.387&#10;first commit" />
@@ -591,7 +585,9 @@
     <MESSAGE value="Problem.43 first commit; Problem.415 optimized." />
     <MESSAGE value="Problem.6/68/306/482/1323 first commit" />
     <MESSAGE value="Problem.214/459/596/647/686/998 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.214/459/596/647/686/998 first commit" />
+    <MESSAGE value="Problem.7 first commit" />
+    <MESSAGE value="Codeforces Round 817 div.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces Round 817 div.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
