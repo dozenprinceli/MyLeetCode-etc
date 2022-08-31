@@ -2,10 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[946]验证栈序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[946]验证栈序列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1475]商品折扣后的最终价格.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[190]颠倒二进制位.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[191]位1的个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[231]2 的幂.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[263]丑数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[326]3 的幂.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[342]4的幂.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[461]汉明距离.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[476]数字的补数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[477]汉明距离总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[479]最大回文数乘积.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[504]七进制数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[564]寻找最近的回文数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[693]交替位二进制数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[9]回文数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1475]商品折扣后的最终价格.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[190]颠倒二进制位.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[191]位1的个数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[231]2 的幂.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[263]丑数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[326]3 的幂.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[342]4的幂.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[461]汉明距离.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[476]数字的补数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[477]汉明距离总和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[479]最大回文数乘积.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[504]七进制数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[564]寻找最近的回文数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[693]交替位二进制数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[9]回文数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/submission/[9]回文数287527985.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/bitwise/Bitwise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/math/Math02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exams/Exams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exams/Exams.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[285]二叉搜索树中的中序后继.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/test/test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,22 +103,9 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E">
+  <component name="RunManager" selected="JUnit.Bitwise02.testBinaryString">
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r817div4.C" />
-      <module name="CodeForces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeforces.com.rated.r817div4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r817div4.D" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
@@ -107,30 +130,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.String15" />
+    <configuration name="Bitwise02.testBinaryString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="bitwise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="bitwise" />
+      <option name="MAIN_CLASS_NAME" value="bitwise.Bitwise02" />
+      <option name="METHOD_NAME" value="testBinaryString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String15.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Bitwise02.testPowOf3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="bitwise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String15" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="bitwise" />
+      <option name="MAIN_CLASS_NAME" value="bitwise.Bitwise02" />
+      <option name="METHOD_NAME" value="testPowOf3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Math02.test564" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="math" />
+      <option name="MAIN_CLASS_NAME" value="math.Math02" />
+      <option name="METHOD_NAME" value="test564" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Bitwise02.testBinaryString" />
+        <item itemvalue="JUnit.Bitwise02.testPowOf3" />
+        <item itemvalue="JUnit.Math02.test564" />
         <item itemvalue="Application.E" />
         <item itemvalue="Application.C" />
-        <item itemvalue="Application.String15" />
-        <item itemvalue="Application.D" />
-        <item itemvalue="JUnit.String15.test" />
       </list>
     </recent_temporary>
   </component>
@@ -197,14 +239,9 @@
       <workItem from="1661786868420" duration="9471000" />
       <workItem from="1661843868180" duration="1922000" />
       <workItem from="1661859014573" duration="11603000" />
-      <workItem from="1661879604231" duration="2807000" />
-    </task>
-    <task id="LOCAL-00066" summary="LeetCode Biweekly 85&#10;Problem 4 modify">
-      <created>1661011620268</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1661011620269</updated>
+      <workItem from="1661879604231" duration="5000000" />
+      <workItem from="1661925028614" duration="1911000" />
+      <workItem from="1661959923748" duration="10462000" />
     </task>
     <task id="LOCAL-00067" summary="Problem.1455&#10;first commit">
       <created>1661012013181</created>
@@ -542,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661879667521</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Problem.946 first commit">
+      <created>1661887061643</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1661887061643</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +606,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.557&#10;first commit" />
     <MESSAGE value="Problem.151&#10;first commit" />
     <MESSAGE value="Problem.387&#10;first commit" />
     <MESSAGE value="Problem.389&#10;first commit" />
@@ -587,7 +630,8 @@
     <MESSAGE value="Problem.214/459/596/647/686/998 first commit" />
     <MESSAGE value="Problem.7 first commit" />
     <MESSAGE value="Codeforces Round 817 div.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codeforces Round 817 div.4" />
+    <MESSAGE value="Problem.946 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.946 first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
