@@ -1521,6 +1521,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[687]最长同值路径.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[687]最长同值路径.md" />
+              <option name="frontendQuestionId" value="leetcode.cn687" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[687]最长同值路径.java" />
+              <option name="titleSlug" value="longest-univalue-path" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[68]文本左右对齐.java">
           <value>
             <LeetcodeEditor>

@@ -73,5 +73,6 @@ public class F {
         if (cnt != 3 && board[r][c] == '*') {
             return false;
         }
+        return false;
     }
 }
