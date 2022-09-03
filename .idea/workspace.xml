@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[646]最长数对链.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[646]最长数对链.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1582]二进制矩阵中的特殊位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[172]阶乘后的零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[258]各位相加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[393]UTF-8 编码验证.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[458]可怜的小猪.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1582]二进制矩阵中的特殊位置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[172]阶乘后的零.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[258]各位相加.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[458]可怜的小猪.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/bitwise/Bitwise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +76,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C">
+  <component name="RunManager" selected="JUnit.Bitwise03.test458">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r818div2.A" />
       <module name="CodeForces" />
@@ -121,17 +132,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree03.test687" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Bitwise03.test458" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tree.*" />
+          <option name="PATTERN" value="bitwise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tree" />
-      <option name="MAIN_CLASS_NAME" value="tree.Tree03" />
-      <option name="METHOD_NAME" value="test687" />
+      <option name="PACKAGE_NAME" value="bitwise" />
+      <option name="MAIN_CLASS_NAME" value="bitwise.Bitwise03" />
+      <option name="METHOD_NAME" value="test458" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Bitwise03.test458" />
         <item itemvalue="Application.C" />
         <item itemvalue="Application.B" />
         <item itemvalue="JUnit.B.test" />
         <item itemvalue="Application.A" />
-        <item itemvalue="JUnit.Tree03.test687" />
       </list>
     </recent_temporary>
   </component>
@@ -207,13 +218,7 @@
       <workItem from="1662097933276" duration="1445000" />
       <workItem from="1662107083817" duration="678000" />
       <workItem from="1662129964578" duration="5975000" />
-    </task>
-    <task id="LOCAL-00071" summary="Problem.54&#10;first commit">
-      <created>1661037640816</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1661037640816</updated>
+      <workItem from="1662217157826" duration="4798000" />
     </task>
     <task id="LOCAL-00072" summary="Problem.59&#10;first commit">
       <created>1661039250486</created>
@@ -551,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662134520297</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Problem.646">
+      <created>1662217227870</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1662217227870</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,7 +583,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.49&#10;first commit" />
     <MESSAGE value="Problem.423/451/551/657/658/696&#10;first commit" />
     <MESSAGE value="Problem.467&#10;first commit" />
     <MESSAGE value="Problem.299/412&#10;first commit" />
@@ -596,7 +607,8 @@
     <MESSAGE value="百度测开二面编程题" />
     <MESSAGE value="Codeforces Round 818 A/B/C" />
     <MESSAGE value="Problem.687" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.687" />
+    <MESSAGE value="Problem.646" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.646" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
