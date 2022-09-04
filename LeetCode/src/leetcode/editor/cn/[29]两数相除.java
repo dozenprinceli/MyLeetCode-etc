@@ -33,12 +33,29 @@
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int divide(int dividend, int divisor) {
-        if (dividend == Integer.MIN_VALUE && divisor == -1) {
-            return Integer.MAX_VALUE;
-        } else if (divisor == Integer.MIN_VALUE) {
-            return 0;
+        if (divisor == 1) {
+            return dividend;
+        }
+        int ans = 0;
+        if (dividend == Integer.MIN_VALUE) {
+            if (divisor == -1) {
+                return Integer.MAX_VALUE;
+            }
+            ans++;
+            dividend += Math.abs(divisor);
+        }
+        if (divisor == Integer.MIN_VALUE) {
+            return ans;
         }
 
+        boolean isNegative = dividend < 0 && divisor > 0 || dividend > 0 && divisor < 0;
+        dividend = Math.abs(dividend);
+        divisor = Math.abs(divisor);
+        while (dividend >= divisor) {
+            dividend -= divisor;
+            ans++;
+        }
+        return isNegative ? -ans : ans;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
