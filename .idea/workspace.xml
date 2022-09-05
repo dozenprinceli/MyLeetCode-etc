@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[372]超级次方.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[828]统计子串中的唯一字符.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[372]超级次方.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[828]统计子串中的唯一字符.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/array/Array06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[828]统计子串中的唯一字符.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[828]统计子串中的唯一字符.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,14 +222,7 @@
       <workItem from="1662315044107" duration="1086000" />
       <workItem from="1662375547948" duration="47000" />
       <workItem from="1662375716026" duration="4883000" />
-      <workItem from="1662392232659" duration="3122000" />
-    </task>
-    <task id="LOCAL-00076" summary="Problem.566&#10;first commit">
-      <created>1661111904307</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1661111904307</updated>
+      <workItem from="1662392232659" duration="3595000" />
     </task>
     <task id="LOCAL-00077" summary="Problem.48&#10;first commit">
       <created>1661115321114</created>
@@ -571,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662316643405</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Problem.828 but TLE">
+      <created>1662397085805</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1662397085805</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +587,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.38/443/537/539/553/592 first commit" />
     <MESSAGE value="Problem.13/165/273/481/662 first commit" />
     <MESSAGE value="Problem.392/521/522/524 first commit" />
     <MESSAGE value="AtCoder Beginner Contest 266" />
@@ -616,7 +611,8 @@
     <MESSAGE value="Problem.258 modify alg from O(n) to O(1)" />
     <MESSAGE value="Problem.168/171/233/357/400/405/670" />
     <MESSAGE value="Problem.29/492/507/652" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.29/492/507/652" />
+    <MESSAGE value="Problem.828 but TLE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.828 but TLE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

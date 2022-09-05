@@ -54,38 +54,33 @@ import java.util.List;
 class Solution {
     public int uniqueLetterString(String s) {
         int n = s.length();
-        long sum = (long) n * (n + 1) * (n + 2) / 6;
         List<Integer>[] letterLocs = new ArrayList[26];
         for (int i = 0; i < n; i++) {
             int idx = s.charAt(i) - 65;
             if (letterLocs[idx] == null) {
                 letterLocs[idx] = new ArrayList<>();
+                letterLocs[idx].add(-1);
             }
             letterLocs[idx].add(i);
         }
+        int sum = 0;
         for (List<Integer> locList : letterLocs) {
-            sum -= reduce(locList, n);
+            sum += add(locList, n);
         }
-        return (int) sum;
+        return sum;
     }
 
-    private int reduce(List<Integer> locList, int n) {
-        if (locList == null || locList.size() < 2) {
+    private int add(List<Integer> locList, int n) {
+        if (locList == null) {
             return 0;
         }
 
-        int size = locList.size();
-        int reduceSum = 0;
-        for (int groupSize = 2; groupSize <= size; groupSize++) {
-            for (int i = 0; i <= size - groupSize; i++) {
-                int left = i == 0 ? locList.get(i) + 1 :
-                        locList.get(i) - locList.get(i - 1);
-                int right = i == size - groupSize ? n - locList.get(i + groupSize - 1) :
-                        locList.get(i + groupSize) - locList.get(i + groupSize - 1);
-                reduceSum += left * right * groupSize;
-            }
+        locList.add(n);
+        int ans = 0;
+        for (int i = 1; i < locList.size() - 1; i++) {
+            ans += (locList.get(i) - locList.get(i - 1)) * (locList.get(i +1) - locList.get(i));
         }
-        return reduceSum;
+        return ans;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
