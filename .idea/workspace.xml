@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.828 AC">
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r819div2/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r819div2/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r819div2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1592]重新排列单词间的空格.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[372]超级次方.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[667]优美的排列 II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1592]重新排列单词间的空格.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[372]超级次方.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[667]优美的排列 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/string/String16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,32 +47,32 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B">
+  <component name="RunManager" selected="JUnit.String16.test1592">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r819div2.A" />
       <module name="CodeForces" />
@@ -125,17 +128,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math05.testMod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="String16.test1592" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="math" />
-      <option name="MAIN_CLASS_NAME" value="math.Math05" />
-      <option name="METHOD_NAME" value="testMod" />
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.String16" />
+      <option name="METHOD_NAME" value="test1592" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.String16.test1592" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.C" />
         <item itemvalue="Application.A" />
         <item itemvalue="JUnit.Array06.test" />
-        <item itemvalue="JUnit.Math05.testMod" />
       </list>
     </recent_temporary>
   </component>
@@ -219,13 +222,9 @@
       <workItem from="1662392232659" duration="3772000" />
       <workItem from="1662433002330" duration="11512000" />
       <workItem from="1662473950213" duration="8646000" />
-    </task>
-    <task id="LOCAL-00078" summary="Problem.73&#10;first commit">
-      <created>1661116222767</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1661116222767</updated>
+      <workItem from="1662483403968" duration="1039000" />
+      <workItem from="1662538604078" duration="6165000" />
+      <workItem from="1662566105447" duration="2382000" />
     </task>
     <task id="LOCAL-00079" summary="Problem.289&#10;first commit">
       <created>1661116827400</created>
@@ -563,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662397724383</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Codeforces Round 819 Div.2 A/B/C">
+      <created>1662483434995</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483434995</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,7 +589,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.392/521/522/524 first commit" />
     <MESSAGE value="AtCoder Beginner Contest 266" />
     <MESSAGE value="美团 &amp; 360 校招笔试" />
     <MESSAGE value="Educational Codeforces Round 134" />
@@ -608,7 +613,8 @@
     <MESSAGE value="Problem.29/492/507/652" />
     <MESSAGE value="Problem.828 but TLE" />
     <MESSAGE value="Problem.828 AC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.828 AC" />
+    <MESSAGE value="Codeforces Round 819 Div.2 A/B/C" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces Round 819 Div.2 A/B/C" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -617,6 +623,11 @@
           <url>file://$PROJECT_DIR$/Exams/src/exam0819/Test2_1.java</url>
           <line>17</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/test/src/string/String16.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
