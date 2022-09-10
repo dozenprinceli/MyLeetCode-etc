@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1598]文件夹操作日志搜集器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1598]文件夹操作日志搜集器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[669]修剪二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[669]修剪二叉搜索树.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Lua&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -208,14 +207,12 @@
       <workItem from="1662566105447" duration="2527000" />
       <workItem from="1662600194271" duration="9180000" />
       <workItem from="1662652133057" duration="628000" />
-      <workItem from="1662653438771" duration="339000" />
-    </task>
-    <task id="LOCAL-00080" summary="Problem.304&#10;first commit">
-      <created>1661117406693</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1661117406693</updated>
+      <workItem from="1662653438771" duration="393000" />
+      <workItem from="1662726163920" duration="143000" />
+      <workItem from="1662726327536" duration="297000" />
+      <workItem from="1662739691539" duration="4483000" />
+      <workItem from="1662786693209" duration="84000" />
+      <workItem from="1662786789549" duration="1792000" />
     </task>
     <task id="LOCAL-00081" summary="Problem.238&#10;first commit">
       <created>1661118361000</created>
@@ -553,7 +550,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662568778136</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Problem.1598">
+      <created>1662653791316</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1662653791317</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,7 +577,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="美团 &amp; 360 校招笔试" />
     <MESSAGE value="Educational Codeforces Round 134" />
     <MESSAGE value="Problem.793 first commit" />
     <MESSAGE value="Problem.67/415 first commit" />
@@ -598,7 +601,8 @@
     <MESSAGE value="Problem.828 AC" />
     <MESSAGE value="Codeforces Round 819 Div.2 A/B/C" />
     <MESSAGE value="Problem.372/667/1592" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.372/667/1592" />
+    <MESSAGE value="Problem.1598" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.1598" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
