@@ -4,7 +4,7 @@ package contest.biweekly.c85;
  * @author Dozen Lee<br/>
  * 2022/8/20 22:29
  */
-public class Solution3 {
+public class C {
     public String shiftingLetters(String s, int[][] shifts) {
         int[] moves = new int[s.length()];
         char[] arr = s.toCharArray();

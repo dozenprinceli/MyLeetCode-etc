@@ -1,12 +1,10 @@
 package contest.biweekly.c85;
 
-import java.util.*;
-
 /**
  * @author Dozen Lee<br/>
  * 2022/8/20 22:29
  */
-public class Solution4 {
+public class D {
     public long[] maximumSegmentSum(int[] nums, int[] removeQueries) {
         int n = nums.length;
         long[] ans = new long[n];

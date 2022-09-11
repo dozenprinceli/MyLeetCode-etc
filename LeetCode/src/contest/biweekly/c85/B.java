@@ -4,7 +4,7 @@ package contest.biweekly.c85;
  * @author Dozen Lee<br/>
  * 2022/8/20 22:29
  */
-public class Solution2 {
+public class B {
     public int secondsToRemoveOccurrences(String s) {
         char[] arr = s.toCharArray();
         int time = 0;

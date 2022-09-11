@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.669">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[857]雇佣 K 名工人的最低成本.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[857]雇佣 K 名工人的最低成本.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/common/ArrayInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/weekly/c310/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/weekly/c310/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/weekly/c310/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/contest/weekly/c310/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/array/Array07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/array/Array08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/contest/biweekly/c85/D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +64,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;X:/Java/llminxsolver-1.0&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -67,20 +77,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="Java Scratch.ClockDemo">
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.com.rated.r819div2.B" />
-      <module name="CodeForces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeforces.com.rated.r819div2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Array08.test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tmp.Test" />
       <module name="Exams" />
@@ -94,17 +91,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String16.test1592" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Array07.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.String16" />
-      <option name="METHOD_NAME" value="test1592" />
+      <option name="PACKAGE_NAME" value="array" />
+      <option name="MAIN_CLASS_NAME" value="array.Array07" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array08.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="array" />
+      <option name="MAIN_CLASS_NAME" value="array.Array08" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contest.weekly.c310.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contest.weekly.c310" />
+      <option name="MAIN_CLASS_NAME" value="contest.weekly.c310.C" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,20 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCylinder" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCylinder" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/TestCylinder.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Array08.test" />
+        <item itemvalue="JUnit.Array07.test" />
+        <item itemvalue="JUnit.C.test" />
         <item itemvalue="Java Scratch.ClockDemo" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Java Scratch.TestCylinder" />
-        <item itemvalue="JUnit.String16.test1592" />
-        <item itemvalue="Application.B" />
       </list>
     </recent_temporary>
   </component>
@@ -215,14 +237,10 @@
       <workItem from="1662786789549" duration="1792000" />
       <workItem from="1662791734781" duration="104000" />
       <workItem from="1662828542513" duration="4914000" />
-      <workItem from="1662862923523" duration="411000" />
-    </task>
-    <task id="LOCAL-00082" summary="Problem.520&#10;first commit">
-      <created>1661118961658</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1661118961658</updated>
+      <workItem from="1662862923523" duration="6839000" />
+      <workItem from="1662869832890" duration="259000" />
+      <workItem from="1662870293126" duration="1106000" />
+      <workItem from="1662876867510" duration="295000" />
     </task>
     <task id="LOCAL-00083" summary="Problem.125&#10;first commit">
       <created>1661119976072</created>
@@ -560,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662791756054</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Problem.857">
+      <created>1662863346896</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1662863346897</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +605,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.793 first commit" />
     <MESSAGE value="Problem.67/415 first commit" />
     <MESSAGE value="Problem.793 使用近似的牛顿迭代代替二分法，提高收敛效率" />
     <MESSAGE value="Problem.1470 first commit" />
@@ -605,7 +629,8 @@
     <MESSAGE value="Problem.372/667/1592" />
     <MESSAGE value="Problem.1598" />
     <MESSAGE value="Problem.669" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.669" />
+    <MESSAGE value="Problem.857" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.857" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,12 +1,10 @@
 package contest.biweekly.c85;
 
-import org.junit.Test;
-
 /**
  * @author Dozen Lee<br/>
  * 2022/8/20 22:28
  */
-public class Solution1 {
+public class A {
     public int minimumRecolors(String blocks, int k) {
         int min = 0;
         int last = 0;
