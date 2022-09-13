@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r820div3/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r820div3/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r820div3/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r820div3/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeForces/src/codeforces/com/rated/r820div3/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1619]删除某些元素后的数组均值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1619]删除某些元素后的数组均值.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -232,14 +230,8 @@
       <workItem from="1662870293126" duration="1106000" />
       <workItem from="1662876867510" duration="295000" />
       <workItem from="1662911972543" duration="1526000" />
-      <workItem from="1662992030013" duration="7710000" />
-    </task>
-    <task id="LOCAL-00085" summary="Problem.58&#10;first commit">
-      <created>1661120947644</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1661120947644</updated>
+      <workItem from="1662992030013" duration="8010000" />
+      <workItem from="1663085837729" duration="283000" />
     </task>
     <task id="LOCAL-00086" summary="Problem.344&#10;first commit">
       <created>1661121182482</created>
@@ -577,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662914373556</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="Codeforces Round 820 A/B/C/D AC E WA">
+      <created>1663000621273</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1663000621274</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,7 +596,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.1470 first commit" />
     <MESSAGE value="Problem.43 first commit; Problem.415 optimized." />
     <MESSAGE value="Problem.6/68/306/482/1323 first commit" />
     <MESSAGE value="Problem.214/459/596/647/686/998 first commit" />
@@ -622,7 +620,8 @@
     <MESSAGE value="Problem.857" />
     <MESSAGE value="LeetCode Weekly 310" />
     <MESSAGE value="Problem.1608" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.1608" />
+    <MESSAGE value="Codeforces Round 820 A/B/C/D AC E WA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces Round 820 A/B/C/D AC E WA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
