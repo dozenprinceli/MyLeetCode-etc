@@ -1763,6 +1763,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[672]灯泡开关 Ⅱ.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[672]灯泡开关 Ⅱ.md" />
+              <option name="frontendQuestionId" value="leetcode.cn672" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[672]灯泡开关 Ⅱ.java" />
+              <option name="titleSlug" value="bulb-switcher-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[67]二进制求和.java">
           <value>
             <LeetcodeEditor>
