@@ -289,6 +289,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1624]两个相同字符之间的最长子字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1624]两个相同字符之间的最长子字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1624" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1624]两个相同字符之间的最长子字符串.java" />
+              <option name="titleSlug" value="largest-substring-between-two-equal-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1656]设计有序流.java">
           <value>
             <LeetcodeEditor>
