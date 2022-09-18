@@ -1,4 +1,4 @@
-package contest.biweekly.c85;
+package biweekly.c85;
 
 /**
  * @author Dozen Lee<br/>

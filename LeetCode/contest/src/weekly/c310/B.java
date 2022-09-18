@@ -1,4 +1,4 @@
-package contest.weekly.c310;
+package weekly.c310;
 
 import java.util.HashMap;
 import java.util.Map;

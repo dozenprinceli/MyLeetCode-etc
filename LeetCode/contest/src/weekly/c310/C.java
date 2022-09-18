@@ -1,8 +1,9 @@
-package contest.weekly.c310;
+package weekly.c310;
 
-import org.junit.Test;
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
 
 /**
  * @author Dozen Lee<br/>
