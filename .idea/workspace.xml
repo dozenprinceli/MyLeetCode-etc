@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/contest/src/weekly/c311/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/contest/src/weekly/c311/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/contest/src/weekly/c311/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/contest/src/weekly/c311/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[827]最大人工岛.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[827]最大人工岛.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/array/Array10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +70,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.B.test">
+  <component name="RunManager" selected="JUnit.Array10.test827">
     <configuration name="A.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="contest" />
       <extension name="coverage">
@@ -86,7 +87,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array09.test850" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Array10.test827" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +96,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.Array09" />
-      <option name="METHOD_NAME" value="test850" />
+      <option name="MAIN_CLASS_NAME" value="array.Array10" />
+      <option name="METHOD_NAME" value="test827" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Array10.test827" />
         <item itemvalue="JUnit.B.test" />
         <item itemvalue="JUnit.C.test" />
         <item itemvalue="JUnit.C" />
         <item itemvalue="JUnit.A.test" />
-        <item itemvalue="JUnit.Array09.test850" />
       </list>
     </recent_temporary>
   </component>
@@ -252,14 +253,8 @@
       <workItem from="1663290076160" duration="15769000" />
       <workItem from="1663342153283" duration="1550000" />
       <workItem from="1663424777907" duration="5594000" />
-      <workItem from="1663468085447" duration="5381000" />
-    </task>
-    <task id="LOCAL-00091" summary="Problem.387&#10;first commit">
-      <created>1661232671215</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1661232671215</updated>
+      <workItem from="1663468085447" duration="5401000" />
+      <workItem from="1663474504722" duration="9041000" />
     </task>
     <task id="LOCAL-00092" summary="Problem.389&#10;first commit">
       <created>1661233837093</created>
@@ -597,7 +592,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663468137852</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="LeetCode Weekly 311">
+      <created>1663474489676</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1663474489676</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,7 +619,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.946 first commit" />
     <MESSAGE value="Problem.9/190/191/231/263/326/342/461/476/477/479/504/564/693/1475 first commit" />
     <MESSAGE value="百度测开二面编程题" />
     <MESSAGE value="Codeforces Round 818 A/B/C" />
@@ -642,7 +643,8 @@
     <MESSAGE value="Problem 850" />
     <MESSAGE value="Problem 1624" />
     <MESSAGE value="LeetCode Biweekly 87" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Biweekly 87" />
+    <MESSAGE value="LeetCode Weekly 311" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Weekly 311" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -675,6 +677,11 @@
           <url>file://$PROJECT_DIR$/LeetCode/contest/src/biweekly/c87/A.java</url>
           <line>31</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/test/src/array/Array10.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
