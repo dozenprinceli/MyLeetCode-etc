@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[854]相似度为 K 的字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[854]相似度为 K 的字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1640]能否连接形成数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1640]能否连接形成数组.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,14 +259,7 @@
       <workItem from="1663690349039" duration="1495000" />
       <workItem from="1663692187939" duration="22000" />
       <workItem from="1663745482680" duration="396000" />
-      <workItem from="1663771864825" duration="4090000" />
-    </task>
-    <task id="LOCAL-00095" summary="Problem.49&#10;first commit">
-      <created>1661276503700</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1661276503700</updated>
+      <workItem from="1663771864825" duration="4616000" />
     </task>
     <task id="LOCAL-00096" summary="Problem.423/451/551/657/658/696&#10;first commit">
       <created>1661357920095</created>
@@ -605,7 +597,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663686628593</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="Problem 854">
+      <created>1663776117994</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1663776117994</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +624,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.687" />
     <MESSAGE value="Problem.646" />
     <MESSAGE value="Problem.172/258/458/1582" />
     <MESSAGE value="Problem.258 modify alg from O(n) to O(1)" />
@@ -650,7 +648,8 @@
     <MESSAGE value="Problem 827" />
     <MESSAGE value="Problem 1636" />
     <MESSAGE value="Problem 698" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 698" />
+    <MESSAGE value="Problem 854" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 854" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

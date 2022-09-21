@@ -311,6 +311,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1640]能否连接形成数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1640]能否连接形成数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1640" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1640]能否连接形成数组.java" />
+              <option name="titleSlug" value="check-array-formation-through-concatenation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1656]设计有序流.java">
           <value>
             <LeetcodeEditor>
