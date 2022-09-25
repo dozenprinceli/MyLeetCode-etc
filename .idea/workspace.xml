@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exams/src/test0925/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[788]旋转数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[788]旋转数字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -261,14 +264,7 @@
       <workItem from="1663949518972" duration="1351000" />
       <workItem from="1664006555029" duration="668000" />
       <workItem from="1664069064755" duration="6353000" />
-      <workItem from="1664080314203" duration="341000" />
-    </task>
-    <task id="LOCAL-00099" summary="Problem.506/1464&#10;first commit">
-      <created>1661444145202</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1661444145203</updated>
+      <workItem from="1664080314203" duration="1349000" />
     </task>
     <task id="LOCAL-00100" summary="Problem.38/443/537/539/553/592 first commit">
       <created>1661457142989</created>
@@ -606,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663950879881</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="Test0925 F">
+      <created>1664080667647</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1664080667647</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -626,7 +629,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.168/171/233/357/400/405/670" />
     <MESSAGE value="Problem.29/492/507/652" />
     <MESSAGE value="Problem.828 but TLE" />
     <MESSAGE value="Problem.828 AC" />
@@ -651,7 +653,8 @@
     <MESSAGE value="Problem 1640" />
     <MESSAGE value="Problem 707" />
     <MESSAGE value="Problem 1652" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 1652" />
+    <MESSAGE value="Test0925 F" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test0925 F" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
