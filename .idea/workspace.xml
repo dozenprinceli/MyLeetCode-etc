@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1652]拆炸弹.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1652]拆炸弹.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exams/src/test0925/F.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +66,20 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Array11.test698">
+  <component name="RunManager" selected="Application.F">
+    <configuration name="F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test0925.F" />
+      <module name="Exams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test0925.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Array10.test827" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -117,21 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="contest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="biweekly.c87.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="biweekly.c87" />
-      <option name="MAIN_CLASS_NAME" value="biweekly.c87.C" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="contest" />
       <extension name="coverage">
@@ -150,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F" />
         <item itemvalue="JUnit.Array11.test698" />
         <item itemvalue="JUnit.Array10.test827" />
         <item itemvalue="JUnit.B.test" />
         <item itemvalue="JUnit.C.test" />
-        <item itemvalue="JUnit.C" />
       </list>
     </recent_temporary>
   </component>
@@ -262,14 +258,10 @@
       <workItem from="1663745482680" duration="396000" />
       <workItem from="1663771864825" duration="4689000" />
       <workItem from="1663863338863" duration="629000" />
-      <workItem from="1663949518972" duration="1320000" />
-    </task>
-    <task id="LOCAL-00098" summary="Problem.299/412&#10;first commit">
-      <created>1661363614390</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1661363614390</updated>
+      <workItem from="1663949518972" duration="1351000" />
+      <workItem from="1664006555029" duration="668000" />
+      <workItem from="1664069064755" duration="6353000" />
+      <workItem from="1664080314203" duration="341000" />
     </task>
     <task id="LOCAL-00099" summary="Problem.506/1464&#10;first commit">
       <created>1661444145202</created>
@@ -607,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663863969795</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="Problem 1652">
+      <created>1663950879881</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1663950879881</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -627,7 +626,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.258 modify alg from O(n) to O(1)" />
     <MESSAGE value="Problem.168/171/233/357/400/405/670" />
     <MESSAGE value="Problem.29/492/507/652" />
     <MESSAGE value="Problem.828 but TLE" />
@@ -652,7 +650,8 @@
     <MESSAGE value="Problem 854" />
     <MESSAGE value="Problem 1640" />
     <MESSAGE value="Problem 707" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 707" />
+    <MESSAGE value="Problem 1652" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 1652" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
