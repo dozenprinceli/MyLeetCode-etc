@@ -2148,6 +2148,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[面试题 01.09]字符串轮转.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[面试题 01.09]字符串轮转.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 01.09" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[面试题 01.09]字符串轮转.java" />
+              <option name="titleSlug" value="string-rotation-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[面试题 17.09]第 k 个数.java">
           <value>
             <LeetcodeEditor>
