@@ -2148,6 +2148,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[面试题 01.08]零矩阵.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[面试题 01.08]零矩阵.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 01.08" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[面试题 01.08]零矩阵.java" />
+              <option name="titleSlug" value="zero-matrix-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[面试题 01.09]字符串轮转.java">
           <value>
             <LeetcodeEditor>
