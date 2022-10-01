@@ -366,6 +366,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1694]重新格式化电话号码.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1694]重新格式化电话号码.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1694" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1694]重新格式化电话号码.java" />
+              <option name="titleSlug" value="reformat-phone-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[169]多数元素.java">
           <value>
             <LeetcodeEditor>

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[面试题 01.08]零矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[面试题 01.08]零矩阵.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/matrix/Matrix03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1694]重新格式化电话号码.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1694]重新格式化电话号码.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -273,14 +273,9 @@
       <workItem from="1664209053467" duration="161000" />
       <workItem from="1664379254475" duration="931000" />
       <workItem from="1664416257219" duration="1014000" />
-      <workItem from="1664468977600" duration="908000" />
-    </task>
-    <task id="LOCAL-00105" summary="Educational Codeforces Round 134">
-      <created>1661614438394</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1661614438394</updated>
+      <workItem from="1664468977600" duration="1091000" />
+      <workItem from="1664580989941" duration="867000" />
+      <workItem from="1664638076085" duration="495000" />
     </task>
     <task id="LOCAL-00106" summary="Problem.793 first commit">
       <created>1661624081597</created>
@@ -618,7 +613,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664424498471</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="Problem01.08">
+      <created>1664470064374</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1664470064375</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +640,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.1598" />
     <MESSAGE value="Problem.669" />
     <MESSAGE value="Problem.857" />
     <MESSAGE value="LeetCode Weekly 310" />
@@ -663,7 +664,8 @@
     <MESSAGE value="Problem01.02" />
     <MESSAGE value="Problem17.09" />
     <MESSAGE value="Problem01.09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem01.09" />
+    <MESSAGE value="Problem01.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem01.08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -706,11 +708,6 @@
           <url>file://$PROJECT_DIR$/LeetCode/test/src/math/Math06.java</url>
           <line>18</line>
           <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/test/src/matrix/Matrix03.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
