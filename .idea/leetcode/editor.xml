@@ -1961,6 +1961,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[777]在LR字符串中交换相邻字符.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[777]在LR字符串中交换相邻字符.md" />
+              <option name="frontendQuestionId" value="leetcode.cn777" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[777]在LR字符串中交换相邻字符.java" />
+              <option name="titleSlug" value="swap-adjacent-in-lr-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[782]变为棋盘.java">
           <value>
             <LeetcodeEditor>
