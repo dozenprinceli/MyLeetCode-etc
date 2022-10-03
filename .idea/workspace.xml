@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[777]在LR字符串中交换相邻字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[777]在LR字符串中交换相邻字符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1784]检查二进制字符串字段.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1784]检查二进制字符串字段.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -275,14 +276,8 @@
       <workItem from="1664468977600" duration="1091000" />
       <workItem from="1664580989941" duration="867000" />
       <workItem from="1664638076085" duration="704000" />
-      <workItem from="1664720455580" duration="1376000" />
-    </task>
-    <task id="LOCAL-00107" summary="Problem.67/415 first commit">
-      <created>1661669214357</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1661669214358</updated>
+      <workItem from="1664720455580" duration="1429000" />
+      <workItem from="1664778594011" duration="827000" />
     </task>
     <task id="LOCAL-00108" summary="Problem.793 使用近似的牛顿迭代代替二分法，提高收敛效率">
       <created>1661669252565</created>
@@ -620,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664638712367</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="Problem.777">
+      <created>1664721879297</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1664721879298</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -640,7 +642,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.857" />
     <MESSAGE value="LeetCode Weekly 310" />
     <MESSAGE value="Problem.1608" />
     <MESSAGE value="Codeforces Round 820 A/B/C/D AC E WA" />
@@ -665,7 +666,8 @@
     <MESSAGE value="Problem01.09" />
     <MESSAGE value="Problem01.08" />
     <MESSAGE value="Problem1694" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem1694" />
+    <MESSAGE value="Problem.777" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.777" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
