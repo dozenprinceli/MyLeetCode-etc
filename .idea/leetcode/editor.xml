@@ -2027,6 +2027,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[811]子域名访问计数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[811]子域名访问计数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn811" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[811]子域名访问计数.java" />
+              <option name="titleSlug" value="subdomain-visit-count" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[814]二叉树剪枝.java">
           <value>
             <LeetcodeEditor>
