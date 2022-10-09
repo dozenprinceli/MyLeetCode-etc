@@ -2093,6 +2093,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[856]括号的分数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[856]括号的分数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn856" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[856]括号的分数.java" />
+              <option name="titleSlug" value="score-of-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[857]雇佣 K 名工人的最低成本.java">
           <value>
             <LeetcodeEditor>
