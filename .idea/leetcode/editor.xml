@@ -1983,6 +1983,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[769]最多能完成排序的块.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[769]最多能完成排序的块.md" />
+              <option name="frontendQuestionId" value="leetcode.cn769" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[769]最多能完成排序的块.java" />
+              <option name="titleSlug" value="max-chunks-to-make-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[777]在LR字符串中交换相邻字符.java">
           <value>
             <LeetcodeEditor>
