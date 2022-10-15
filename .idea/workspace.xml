@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[940]不同的子序列 II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[940]不同的子序列 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1441]用栈操作构建数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1441]用栈操作构建数组.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -281,14 +281,8 @@
       <workItem from="1665549908551" duration="887000" />
       <workItem from="1665584736269" duration="7000" />
       <workItem from="1665664964045" duration="514000" />
-      <workItem from="1665758467878" duration="905000" />
-    </task>
-    <task id="LOCAL-00117" summary="百度测开二面编程题">
-      <created>1662037215462</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1662037215462</updated>
+      <workItem from="1665758467878" duration="1200000" />
+      <workItem from="1665805497133" duration="365000" />
     </task>
     <task id="LOCAL-00118" summary="Codeforces Round 818 A/B/C">
       <created>1662134511279</created>
@@ -626,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665665468516</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="Problem.940">
+      <created>1665759674839</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1665759674840</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -646,7 +647,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem 827" />
     <MESSAGE value="Problem 1636" />
     <MESSAGE value="Problem 698" />
     <MESSAGE value="Problem 854" />
@@ -671,7 +671,8 @@
     <MESSAGE value="Problem.1790" />
     <MESSAGE value="Problem.817" />
     <MESSAGE value="Problem.769" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.769" />
+    <MESSAGE value="Problem.940" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.940" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
