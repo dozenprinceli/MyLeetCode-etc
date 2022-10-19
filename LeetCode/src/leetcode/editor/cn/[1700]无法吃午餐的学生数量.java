@@ -60,8 +60,11 @@ class Solution {
         int top = 0;
         int n = sandwiches.length;
         LinkedList<Integer> queue = new LinkedList<>();
-        int sum = Arrays.stream(students).sum();
-        for (int i : students) queue.add(i);
+        int sum = 0;
+        for (int i : students) {
+            queue.add(i);
+            sum += i;
+        }
         while (top < n) {
             if (sum == queue.size() && sandwiches[top] == 0 || sum == 0 && sandwiches[top] == 1) return queue.size();
             if (queue.getFirst() == sandwiches[top]) {
