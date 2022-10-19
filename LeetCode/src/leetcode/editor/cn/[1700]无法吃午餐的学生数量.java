@@ -60,22 +60,13 @@ class Solution {
         int top = 0;
         int n = sandwiches.length;
         LinkedList<Integer> queue = new LinkedList<>();
-        for (int i = 0; i < n; i++) {
-            queue.add(students[i]);
-        }
+        int sum = Arrays.stream(students).sum();
+        for (int i : students) queue.add(i);
         while (top < n) {
-            int curSum = 0;
-            for (Integer integer : queue) {
-                curSum += integer;
-            }
-            if (curSum == queue.size() && sandwiches[top] == 0 ||
-                    curSum == 0 && sandwiches[top] == 1) {
-                return queue.size();
-            }
-
+            if (sum == queue.size() && sandwiches[top] == 0 || sum == 0 && sandwiches[top] == 1) return queue.size();
             if (queue.getFirst() == sandwiches[top]) {
                 top++;
-                queue.removeFirst();
+                sum -= queue.removeFirst();
                 continue;
             }
             queue.addLast(queue.getFirst());
