@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.1700">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[779]第K个语法符号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[779]第K个语法符号.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1700]无法吃午餐的学生数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1700]无法吃午餐的学生数量.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,14 +289,9 @@
       <workItem from="1665967000092" duration="817000" />
       <workItem from="1666054137234" duration="3939000" />
       <workItem from="1666098367172" duration="1049000" />
-      <workItem from="1666143540015" duration="1519000" />
-    </task>
-    <task id="LOCAL-00124" summary="Problem.29/492/507/652">
-      <created>1662316643405</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1662316643405</updated>
+      <workItem from="1666143540015" duration="1524000" />
+      <workItem from="1666185208582" duration="61000" />
+      <workItem from="1666227748918" duration="2989000" />
     </task>
     <task id="LOCAL-00125" summary="Problem.828 but TLE">
       <created>1662397085805</created>
@@ -632,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666144674493</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="Problem.1700">
+      <created>1666145072481</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1666145072481</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
