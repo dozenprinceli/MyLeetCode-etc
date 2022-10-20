@@ -49,10 +49,7 @@
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int kthGrammar(int n, int k) {
-        if (n == 1) return 0;
-        boolean isOdd = k % 2 == 0;
-        boolean lastOne = kthGrammar(n - 1, (k + 1) / 2) == 1;
-        return lastOne && !isOdd || !lastOne && isOdd ? 1 : 0;
+        return n == 1 ? 0 : (kthGrammar(n - 1, (k + 1) / 2) == 1 ? (k % 2 == 1 ? 1 : 0) : (k % 2 == 0 ? 1 : 0));
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
