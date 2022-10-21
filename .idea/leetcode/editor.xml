@@ -2225,6 +2225,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[901]股票价格跨度.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[901]股票价格跨度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn901" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[901]股票价格跨度.java" />
+              <option name="titleSlug" value="online-stock-span" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[902]最大为 N 的数字组合.java">
           <value>
             <LeetcodeEditor>
