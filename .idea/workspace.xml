@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[934]最短的桥.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[934]最短的桥.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/matrix/Matrix04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[862]和至少为 K 的最短子数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[862]和至少为 K 的最短子数组.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -62,7 +61,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Protocol Buffer&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -303,14 +302,9 @@
       <workItem from="1666537571692" duration="211000" />
       <workItem from="1666574184469" duration="802000" />
       <workItem from="1666575003117" duration="2651000" />
-      <workItem from="1666709043158" duration="2788000" />
-    </task>
-    <task id="LOCAL-00131" summary="Problem.857">
-      <created>1662863346896</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1662863346897</updated>
+      <workItem from="1666709043158" duration="2828000" />
+      <workItem from="1666749932462" duration="7153000" />
+      <workItem from="1666790734729" duration="1423000" />
     </task>
     <task id="LOCAL-00132" summary="LeetCode Weekly 310">
       <created>1662912092030</created>
@@ -648,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666586749505</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="Problem.934">
+      <created>1666711862447</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1666711862447</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +669,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem17.09" />
     <MESSAGE value="Problem01.09" />
     <MESSAGE value="Problem01.08" />
     <MESSAGE value="Problem1694" />
@@ -693,7 +693,8 @@
     <MESSAGE value="Problem.1235" />
     <MESSAGE value="Problem.1768" />
     <MESSAGE value="Problem.915" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.915" />
+    <MESSAGE value="Problem.934" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.934" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
