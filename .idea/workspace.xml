@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1822]数组元素积的符号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1822]数组元素积的符号.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1662]检查两个字符串数组是否相等.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1662]检查两个字符串数组是否相等.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[907]子数组的最小值之和.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Protocol Buffer&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -305,14 +305,13 @@
       <workItem from="1666709043158" duration="2828000" />
       <workItem from="1666749932462" duration="7153000" />
       <workItem from="1666790734729" duration="1433000" />
-      <workItem from="1666800175483" duration="1368000" />
-    </task>
-    <task id="LOCAL-00133" summary="Problem.1608">
-      <created>1662914373556</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1662914373556</updated>
+      <workItem from="1666800175483" duration="1561000" />
+      <workItem from="1666832314862" duration="204000" />
+      <workItem from="1666851074943" duration="6075000" />
+      <workItem from="1666882680809" duration="1887000" />
+      <workItem from="1666919380934" duration="2637000" />
+      <workItem from="1667033406967" duration="1195000" />
+      <workItem from="1667264390681" duration="507000" />
     </task>
     <task id="LOCAL-00134" summary="Codeforces Round 820 A/B/C/D AC E WA">
       <created>1663000621273</created>
@@ -650,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666792213629</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="Problem.1822">
+      <created>1666801747134</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1666801747134</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,7 +676,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem01.08" />
     <MESSAGE value="Problem1694" />
     <MESSAGE value="Problem.777" />
     <MESSAGE value="Problem.1784" />
@@ -695,7 +700,8 @@
     <MESSAGE value="Problem.915" />
     <MESSAGE value="Problem.934" />
     <MESSAGE value="Problem.862" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.862" />
+    <MESSAGE value="Problem.1822" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.1822" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
