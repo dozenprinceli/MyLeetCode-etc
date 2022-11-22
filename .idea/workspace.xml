@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1662]检查两个字符串数组是否相等.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1662]检查两个字符串数组是否相等.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[907]子数组的最小值之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[878]第 N 个神奇数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[799]香槟塔.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[878]第 N 个神奇数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/math/Math07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +76,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Matrix04.test934">
+  <component name="RunManager" selected="JUnit.Math07.test878">
     <configuration name="Array12.test927" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -91,7 +93,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math06.test17_19" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Math07.test878" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +102,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="math" />
-      <option name="MAIN_CLASS_NAME" value="math.Math06" />
-      <option name="METHOD_NAME" value="test17_19" />
+      <option name="MAIN_CLASS_NAME" value="math.Math07" />
+      <option name="METHOD_NAME" value="test878" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Math07.test878" />
         <item itemvalue="JUnit.Matrix04.test934" />
         <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="JUnit.Array12.test927" />
         <item itemvalue="JUnit.Matrix03.test01_08" />
-        <item itemvalue="JUnit.Math06.test17_19" />
       </list>
     </recent_temporary>
   </component>
@@ -311,14 +313,16 @@
       <workItem from="1666882680809" duration="1887000" />
       <workItem from="1666919380934" duration="2637000" />
       <workItem from="1667033406967" duration="1195000" />
-      <workItem from="1667264390681" duration="507000" />
-    </task>
-    <task id="LOCAL-00134" summary="Codeforces Round 820 A/B/C/D AC E WA">
-      <created>1663000621273</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1663000621274</updated>
+      <workItem from="1667264390681" duration="560000" />
+      <workItem from="1667268999970" duration="604000" />
+      <workItem from="1667293304996" duration="1190000" />
+      <workItem from="1668250373050" duration="178000" />
+      <workItem from="1668353712532" duration="269000" />
+      <workItem from="1668528264876" duration="34000" />
+      <workItem from="1668938838090" duration="930000" />
+      <workItem from="1668958686333" duration="160000" />
+      <workItem from="1669093231592" duration="261000" />
+      <workItem from="1669123407548" duration="1684000" />
     </task>
     <task id="LOCAL-00135" summary="Problem 1619">
       <created>1663086151547</created>
@@ -656,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666801747134</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="Problem.1662">
+      <created>1667264935210</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1667264935210</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,7 +687,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem1694" />
     <MESSAGE value="Problem.777" />
     <MESSAGE value="Problem.1784" />
     <MESSAGE value="Problem.921" />
@@ -701,7 +711,8 @@
     <MESSAGE value="Problem.934" />
     <MESSAGE value="Problem.862" />
     <MESSAGE value="Problem.1822" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.1822" />
+    <MESSAGE value="Problem.1662" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.1662" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -744,6 +755,11 @@
           <url>file://$PROJECT_DIR$/LeetCode/test/src/math/Math06.java</url>
           <line>18</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/test/src/math/Math07.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
