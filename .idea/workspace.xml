@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Math07.test878">
+  <component name="RunManager" selected="Java Scratch.Scratch">
     <configuration name="Array12.test927" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -142,9 +144,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="JUnit.Math07.test878" />
         <item itemvalue="JUnit.Matrix04.test934" />
-        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="JUnit.Array12.test927" />
         <item itemvalue="JUnit.Matrix03.test01_08" />
       </list>
@@ -317,13 +319,8 @@
       <workItem from="1669123407548" duration="1785000" />
       <workItem from="1669703243975" duration="272000" />
       <workItem from="1672253013950" duration="1063000" />
-    </task>
-    <task id="LOCAL-00138" summary="Problem 1624">
-      <created>1663424812678</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1663424812679</updated>
+      <workItem from="1672420557446" duration="245000" />
+      <workItem from="1672507271263" duration="246000" />
     </task>
     <task id="LOCAL-00139" summary="LeetCode Biweekly 87">
       <created>1663468137852</created>
@@ -661,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672254037120</updated>
     </task>
-    <option name="localTasksCounter" value="187" />
+    <task id="LOCAL-00187" summary="Problem.2037">
+      <created>1672420765661</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1672420765661</updated>
+    </task>
+    <option name="localTasksCounter" value="188" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -681,7 +685,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.811" />
     <MESSAGE value="Problem.927 not finished WA" />
     <MESSAGE value="Problem.856" />
     <MESSAGE value="Problem.801" />
@@ -706,7 +709,8 @@
     <MESSAGE value="Problem.878" />
     <MESSAGE value="Problem.1758" />
     <MESSAGE value="Problem.2032" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.2032" />
+    <MESSAGE value="Problem.2037" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.2037" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
