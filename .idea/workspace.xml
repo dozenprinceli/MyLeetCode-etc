@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1801]积压订单中的订单总数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1801]积压订单中的订单总数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/queue/Queue01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +74,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="Java Scratch.Scratch">
+  <component name="RunManager" selected="JUnit.Queue01.test1801">
     <configuration name="Array12.test927" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -103,22 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix03.test01_08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="matrix" />
-      <option name="MAIN_CLASS_NAME" value="matrix.Matrix03" />
-      <option name="METHOD_NAME" value="test01_08" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Matrix04.test934" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -135,6 +123,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Queue01.test1801" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="queue" />
+      <option name="MAIN_CLASS_NAME" value="queue.Queue01" />
+      <option name="METHOD_NAME" value="test1801" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Queue01.test1801" />
         <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="JUnit.Math07.test878" />
         <item itemvalue="JUnit.Matrix04.test934" />
         <item itemvalue="JUnit.Array12.test927" />
-        <item itemvalue="JUnit.Matrix03.test01_08" />
       </list>
     </recent_temporary>
   </component>
@@ -321,13 +325,8 @@
       <workItem from="1672253013950" duration="1063000" />
       <workItem from="1672420557446" duration="245000" />
       <workItem from="1672507271263" duration="246000" />
-    </task>
-    <task id="LOCAL-00139" summary="LeetCode Biweekly 87">
-      <created>1663468137852</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1663468137852</updated>
+      <workItem from="1672553629251" duration="229000" />
+      <workItem from="1672588887472" duration="3711000" />
     </task>
     <task id="LOCAL-00140" summary="LeetCode Weekly 311">
       <created>1663474489676</created>
@@ -665,7 +664,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672420765661</updated>
     </task>
-    <option name="localTasksCounter" value="188" />
+    <task id="LOCAL-00188" summary="Problem.2351">
+      <created>1672553850637</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1672553850637</updated>
+    </task>
+    <option name="localTasksCounter" value="189" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -685,7 +691,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.927 not finished WA" />
     <MESSAGE value="Problem.856" />
     <MESSAGE value="Problem.801" />
     <MESSAGE value="Problem.1790" />
@@ -710,7 +715,8 @@
     <MESSAGE value="Problem.1758" />
     <MESSAGE value="Problem.2032" />
     <MESSAGE value="Problem.2037" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.2037" />
+    <MESSAGE value="Problem.2351" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.2351" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -758,6 +764,11 @@
           <url>file://$PROJECT_DIR$/LeetCode/test/src/math/Math07.java</url>
           <line>16</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/test/src/queue/Queue01.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

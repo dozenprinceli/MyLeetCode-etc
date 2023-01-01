@@ -520,6 +520,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1801]积压订单中的订单总数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1801]积压订单中的订单总数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1801" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1801]积压订单中的订单总数.java" />
+              <option name="titleSlug" value="number-of-orders-in-the-backlog" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1818]绝对差值和.java">
           <value>
             <LeetcodeEditor>
