@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1801]积压订单中的订单总数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1801]积压订单中的订单总数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/queue/Queue01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[2287]重排字符形成目标字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[2287]重排字符形成目标字符串.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +59,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -326,14 +324,13 @@
       <workItem from="1672420557446" duration="245000" />
       <workItem from="1672507271263" duration="246000" />
       <workItem from="1672553629251" duration="229000" />
-      <workItem from="1672588887472" duration="3711000" />
-    </task>
-    <task id="LOCAL-00140" summary="LeetCode Weekly 311">
-      <created>1663474489676</created>
-      <option name="number" value="00140" />
-      <option name="presentableId" value="LOCAL-00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1663474489676</updated>
+      <workItem from="1672588887472" duration="3914000" />
+      <workItem from="1672673669384" duration="83000" />
+      <workItem from="1672673769543" duration="56000" />
+      <workItem from="1672827321327" duration="545000" />
+      <workItem from="1673169581272" duration="52000" />
+      <workItem from="1673505720728" duration="3000" />
+      <workItem from="1673591266597" duration="665000" />
     </task>
     <task id="LOCAL-00141" summary="Problem 827">
       <created>1663508474562</created>
@@ -671,7 +668,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672553850637</updated>
     </task>
-    <option name="localTasksCounter" value="189" />
+    <task id="LOCAL-00189" summary="Problem.1801">
+      <created>1672595025749</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1672595025750</updated>
+    </task>
+    <option name="localTasksCounter" value="190" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -691,7 +695,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.856" />
     <MESSAGE value="Problem.801" />
     <MESSAGE value="Problem.1790" />
     <MESSAGE value="Problem.817" />
@@ -716,7 +719,8 @@
     <MESSAGE value="Problem.2032" />
     <MESSAGE value="Problem.2037" />
     <MESSAGE value="Problem.2351" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.2351" />
+    <MESSAGE value="Problem.1801" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.1801" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -767,8 +771,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/LeetCode/test/src/queue/Queue01.java</url>
-          <line>70</line>
-          <option name="timeStamp" value="26" />
+          <line>23</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
