@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1233]删除子文件夹.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1798]你能构造出连续值的最大数目.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1233]删除子文件夹.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1798]你能构造出连续值的最大数目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/other/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/tree/Tree04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1797]设计一个验证系统.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1797]设计一个验证系统.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -348,14 +343,8 @@
       <workItem from="1673591266597" duration="689000" />
       <workItem from="1673670246517" duration="596000" />
       <workItem from="1675391246424" duration="4165000" />
-      <workItem from="1675854369986" duration="2287000" />
-    </task>
-    <task id="LOCAL-00142" summary="Problem 1636">
-      <created>1663519306551</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1663519306552</updated>
+      <workItem from="1675854369986" duration="2348000" />
+      <workItem from="1675904991872" duration="1251000" />
     </task>
     <task id="LOCAL-00143" summary="Problem 698">
       <created>1663686628593</created>
@@ -693,7 +682,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673591949114</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="Problem.1233">
+      <created>1675856746447</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1675856746448</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -713,7 +709,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.1790" />
     <MESSAGE value="Problem.817" />
     <MESSAGE value="Problem.769" />
     <MESSAGE value="Problem.940" />
@@ -738,7 +733,8 @@
     <MESSAGE value="Problem.2351" />
     <MESSAGE value="Problem.1801" />
     <MESSAGE value="Problem.2287" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.2287" />
+    <MESSAGE value="Problem.1233" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.1233" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
