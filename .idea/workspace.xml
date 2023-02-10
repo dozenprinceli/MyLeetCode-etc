@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[21]合并两个有序链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[21]合并两个有序链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[22]括号生成.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[22]括号生成.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/solution/zui-jian-dan-yi-dong-de-dong-tai-gui-hua-bu-lun-da.lcv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/dp/Dp02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +76,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Dp01">
+  <component name="RunManager" selected="JUnit.Dp02.test22">
     <configuration name="Dp01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -103,6 +108,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Dp02.test22" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dp" />
+      <option name="MAIN_CLASS_NAME" value="dp.Dp02" />
+      <option name="METHOD_NAME" value="test22" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringTest.testSplit (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -113,22 +134,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="other" />
       <option name="MAIN_CLASS_NAME" value="other.StringTest" />
-      <option name="METHOD_NAME" value="testSplit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest.testSplit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.StringTest" />
       <option name="METHOD_NAME" value="testSplit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -153,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Dp02.test22" />
         <item itemvalue="JUnit.Dp01" />
         <item itemvalue="JUnit.Dp01.test1223" />
         <item itemvalue="JUnit.Tree04.test1233" />
         <item itemvalue="JUnit.StringTest.testSplit (1)" />
-        <item itemvalue="JUnit.StringTest.testSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -344,14 +349,7 @@
       <workItem from="1675904991872" duration="1293000" />
       <workItem from="1675958798442" duration="104000" />
       <workItem from="1675958968703" duration="3646000" />
-      <workItem from="1676017837847" duration="1610000" />
-    </task>
-    <task id="LOCAL-00146" summary="Problem 707">
-      <created>1663863969794</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1663863969795</updated>
+      <workItem from="1676017837847" duration="4195000" />
     </task>
     <task id="LOCAL-00147" summary="Problem 1652">
       <created>1663950879881</created>
@@ -689,7 +687,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676018615236</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="Problem.21">
+      <created>1676019659293</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1676019659293</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -709,7 +714,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.1441" />
     <MESSAGE value="Problem.886" />
     <MESSAGE value="Problem.904" />
     <MESSAGE value="Problem.902" />
@@ -734,7 +738,8 @@
     <MESSAGE value="Problem.1797" />
     <MESSAGE value="Problem.1223" />
     <MESSAGE value="Problem.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.20" />
+    <MESSAGE value="Problem.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
