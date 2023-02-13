@@ -124,6 +124,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1234]替换子串得到平衡字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1234]替换子串得到平衡字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1234" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1234]替换子串得到平衡字符串.java" />
+              <option name="titleSlug" value="replace-the-substring-for-balanced-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1235]规划兼职工作.java">
           <value>
             <LeetcodeEditor>
