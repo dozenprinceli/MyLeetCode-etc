@@ -355,6 +355,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1605]给定行和列的和求可行矩阵.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1605]给定行和列的和求可行矩阵.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1605" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1605]给定行和列的和求可行矩阵.java" />
+              <option name="titleSlug" value="find-valid-matrix-given-row-and-column-sums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1608]特殊数组的特征值.java">
           <value>
             <LeetcodeEditor>
