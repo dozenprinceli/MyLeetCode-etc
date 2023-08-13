@@ -377,6 +377,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1615]最大网络秩.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1615]最大网络秩.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1615" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1615]最大网络秩.java" />
+              <option name="titleSlug" value="maximal-network-rank" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1619]删除某些元素后的数组均值.java">
           <value>
             <LeetcodeEditor>
@@ -462,6 +473,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1662]检查两个字符串数组是否相等.java" />
               <option name="titleSlug" value="check-if-two-string-arrays-are-equivalent" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[167]两数之和 II - 输入有序数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn167" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.java" />
+              <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1111,6 +1133,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[344]反转字符串.java" />
               <option name="titleSlug" value="reverse-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[345]反转字符串中的元音字母.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[345]反转字符串中的元音字母.md" />
+              <option name="frontendQuestionId" value="leetcode.cn345" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[345]反转字符串中的元音字母.java" />
+              <option name="titleSlug" value="reverse-vowels-of-a-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2148,6 +2181,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[680]验证回文串 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[680]验证回文串 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn680" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[680]验证回文串 II.java" />
+              <option name="titleSlug" value="valid-palindrome-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[686]重复叠加字符串匹配.java">
           <value>
             <LeetcodeEditor>
@@ -2365,6 +2409,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[801]使序列递增的最小交换次数.java" />
               <option name="titleSlug" value="minimum-swaps-to-make-sequences-increasing" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[80]删除有序数组中的重复项 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[80]删除有序数组中的重复项 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn80" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[80]删除有序数组中的重复项 II.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array-ii" />
             </LeetcodeEditor>
           </value>
         </entry>

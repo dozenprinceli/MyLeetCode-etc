@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[1615]最大网络秩.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[1615]最大网络秩.md" afterDir="false" />
+    <list default="true" id="46cb802b-cb3f-4e72-8656-090f7ba94cf4" name="Changes" comment="Problem.80/167/345/680">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[345]反转字符串中的元音字母.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[680]验证回文串 II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[80]删除有序数组中的重复项 II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[167]两数之和 II - 输入有序数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[345]反转字符串中的元音字母.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[680]验证回文串 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[80]删除有序数组中的重复项 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/pointer/Pointer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/test/src/pointer/Pointer02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,12 +64,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;X:/Java/Tools/apktool_2.6.1/find a set!/find a set!&quot;,
+    &quot;last_opened_file_path&quot;: &quot;X:/Python/Projects/AutoTwistyTimerOutput/log/auto_outputer.log&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -72,7 +82,7 @@
       <recent name="X:\Java\Algs-DS\AtCoder\src\atcoder\jp\contest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Array13.test1234">
+  <component name="RunManager" selected="JUnit.Pointer02.test80">
     <configuration name="Array13.test1234" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -104,22 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dp01.test1223" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dp" />
-      <option name="MAIN_CLASS_NAME" value="dp.Dp01" />
-      <option name="METHOD_NAME" value="test1223" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Dp02.test22" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -136,17 +130,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree04.test1233" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Pointer01.test680" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tree.*" />
+          <option name="PATTERN" value="pointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tree" />
-      <option name="MAIN_CLASS_NAME" value="tree.Tree04" />
-      <option name="METHOD_NAME" value="test1233" />
+      <option name="PACKAGE_NAME" value="pointer" />
+      <option name="MAIN_CLASS_NAME" value="pointer.Pointer01" />
+      <option name="METHOD_NAME" value="test680" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pointer02.test80" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pointer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pointer" />
+      <option name="MAIN_CLASS_NAME" value="pointer.Pointer02" />
+      <option name="METHOD_NAME" value="test80" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Pointer02.test80" />
+        <item itemvalue="JUnit.Pointer01.test680" />
         <item itemvalue="JUnit.Array13.test1234" />
         <item itemvalue="JUnit.Dp02.test22" />
         <item itemvalue="JUnit.Dp01" />
-        <item itemvalue="JUnit.Dp01.test1223" />
-        <item itemvalue="JUnit.Tree04.test1233" />
       </list>
     </recent_temporary>
   </component>
@@ -357,14 +367,15 @@
       <workItem from="1678377372806" duration="83000" />
       <workItem from="1678776900510" duration="1133000" />
       <workItem from="1678784942167" duration="94000" />
-      <workItem from="1678848983958" duration="1606000" />
-    </task>
-    <task id="LOCAL-00153" summary="Problem01.09">
-      <created>1664424498471</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1664424498471</updated>
+      <workItem from="1678848983958" duration="1647000" />
+      <workItem from="1678946349697" duration="432000" />
+      <workItem from="1680018084557" duration="1438000" />
+      <workItem from="1681403078514" duration="7000" />
+      <workItem from="1681403215217" duration="5000" />
+      <workItem from="1681576027298" duration="113000" />
+      <workItem from="1681579030599" duration="267000" />
+      <workItem from="1681630185808" duration="18000" />
+      <workItem from="1691905876398" duration="5049000" />
     </task>
     <task id="LOCAL-00154" summary="Problem01.08">
       <created>1664470064374</created>
@@ -702,7 +713,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678778033567</updated>
     </task>
-    <option name="localTasksCounter" value="202" />
+    <task id="LOCAL-00202" summary="Problem.1615">
+      <created>1678850606313</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1678850606314</updated>
+    </task>
+    <option name="localTasksCounter" value="203" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -722,7 +740,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Problem.1235" />
     <MESSAGE value="Problem.1768" />
     <MESSAGE value="Problem.915" />
     <MESSAGE value="Problem.934" />
@@ -747,7 +764,8 @@
     <MESSAGE value="Problem.1234" />
     <MESSAGE value="Problem.2341" />
     <MESSAGE value="Problem.1605" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem.1605" />
+    <MESSAGE value="Problem.1615" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem.1615" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
