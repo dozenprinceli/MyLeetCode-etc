@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[134]加油站.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[134]加油站.md" />
+              <option name="frontendQuestionId" value="leetcode.cn134" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[134]加油站.java" />
+              <option name="titleSlug" value="gas-station" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[136]只出现一次的数字.java">
           <value>
             <LeetcodeEditor>
@@ -759,6 +770,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[217]存在重复元素.java" />
               <option name="titleSlug" value="contains-duplicate" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[2187]完成旅途的最少时间.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[2187]完成旅途的最少时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2187" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[2187]完成旅途的最少时间.java" />
+              <option name="titleSlug" value="minimum-time-to-complete-trips" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2783,6 +2805,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[面试题 17.19]消失的两个数字.java" />
               <option name="titleSlug" value="missing-two-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/leetcode/editor/cn/[2187]完成旅途的最少时间.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/doc/content/[2187]完成旅途的最少时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2187" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/src/leetcode/editor/cn/[2187]完成旅途的最少时间.java" />
+              <option name="titleSlug" value="minimum-time-to-complete-trips" />
             </LeetcodeEditor>
           </value>
         </entry>
